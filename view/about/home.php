@@ -6,7 +6,7 @@
  * Time: 16:03
  */
 
-include_once TEMPLATE_PATH . '/header.php';
+include_once TEMPLATE_PATH . '/header.php.tmp';
 ?>
 
     <section class="container p-0">

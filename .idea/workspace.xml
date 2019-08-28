@@ -2,32 +2,145 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0cc1aa7-4c31-4174-8a08-834e5c13b875" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/co-coordinator/Gurmeet-Grewal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/co-coordinator/Jaspal-Singh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/co-coordinator/Sunil-Kumar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/co-coordinator/Vinod-Kumar-Verma.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/co-coordinator/anuj-bansal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/co-coordinator/harish-kumar-arya.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/co-coordinator/jony-singhla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/co-coordinator/js-gill.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/co-coordinator/sumit-kumar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/co-coordinator/vive-kumar-mech.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/Gurjinder-kaur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/Kuldeep-Singh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/Manminder-singh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/Maroti-Deshmukh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/Pankaj-k-Pal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/Prakash-Diwedi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/Pratibha_Tyagi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/charanjeev-gupta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/damanpreet-singh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/indraj-singh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/jagtarr-singh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/no-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/raj-kumar-garg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/shankar-singh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/shyam-lal-soni.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/coordinator/sunil-kumar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/joint-secretaries/ajay-pal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/joint-secretaries/amar-pratap-singh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/joint-secretaries/amrik-singh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/joint-secretaries/anil-kumar-singla.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/joint-secretaries/ashwini-agrawal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/joint-secretaries/birmohan_singh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/joint-secretaries/dr-rk-saxemna.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/joint-secretaries/kamlesh-prasad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/joint-secretaries/kulwant-singh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/joint-secretaries/manoj_sachan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/joint-secretaries/manpreet_kaur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/joint-secretaries/raj-kumar-yadav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/joint-secretaries/sandeep-mohan-ahuja.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/jr_singhal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/nit-uttarakhand-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/secretaries/Krishan-kumar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/secretaries/Vinod-Kumar-Yadav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/secretaries/anup_marwaha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/secretaries/major_singh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/secretaries/pradeep-gupta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/secretaries/rajesh-kumar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/secretaries/sanjay_marwaha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/shyam-lal-soni.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sliet-academic-venu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/acfbt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/aisct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/ame.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/accommodation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/brochure.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/call-for-paper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/committee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/committee/co-coordinator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/committee/coordinator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/committee/joint-organising-secretaries.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/committee/organising-secretaries.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/committee/patron.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/conference_track.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/dates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/instruction-oral-paper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/paper-submission.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/program-schedule.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/publication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/registration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/sidebar-navigation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/sponsorship.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/venue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/accommodation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/brochure.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/call-for-paper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/committee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/committee/co-coordinator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/committee/coordinator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/committee/joint-organising-secretaries.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/committee/organising-secretaries.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/committee/patron.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/conference_track.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/dates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/instruction-oral-paper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/paper-submission.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/program-schedule.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/publication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/registration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/sidebar-navigation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/sponsorship.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/venue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/accommodation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/brochure.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/call-for-paper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/committee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/committee/co-coordinator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/committee/coordinator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/committee/joint-organising-secretaries.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/committee/organising-secretaries.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/committee/patron.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/conference_track.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/dates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/instruction-oral-paper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/paper-submission.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/program-schedule.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/publication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/registration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/sidebar-navigation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/sponsorship.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AME/venue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Conference.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Conference.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/Config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/accommodation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/accommodation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/brochure.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/brochure.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/call-for-paper.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/call-for-paper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/committee.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/committee.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/conference_track.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/conference_track.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/dates.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/dates.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/instruction-oral-paper.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/instruction-oral-paper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/paper-submission.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/paper-submission.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/program-schedule.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/program-schedule.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/publication.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/publication.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/register.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/registration.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/sidebar-navigation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/sliet_glance.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/sliet_glance.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/sponsorship.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/sponsorship.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/technical.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/technical.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/temp.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/temp.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/temp/navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/navigation.php.backup" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/venue.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/temp/venue.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/function.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/function.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/about/chemical.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/about/chemical.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/about/computer.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/about/computer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/about/electoronics.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/about/electoronics.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/about/food.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/about/food.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/about/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/about/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/about/instrumentataion.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/about/instrumentataion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/about/sliet.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/about/sliet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/about/slietcon.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/about/slietcon.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,57 +162,17 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>title-name</find>
-      <find>transpa</find>
-      <find>col-md-4 col-lg-3</find>
-      <find>col-12 col-lg-6</find>
-      <find>h6</find>
-      <find>&lt;h5&gt;</find>
-      <find>h5</find>
-      <find>padding-left: 250px;</find>
-      <find>overs</find>
-      <find>overflow</find>
-      <find>over</find>
-      <find>navbar-light</find>
-      <find>color</find>
-      <find>technical-session</find>
-      <find>alt=&quot;Chief Patron&quot;</find>
-      <find>member</find>
-      <find>no-image.png</find>
-      <find>narpin</find>
-      <find>raj</find>
-      <find>pra</find>
-      <find>htt</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>event-name</replace>
-      <replace>col-lg-6</replace>
-      <replace>col-12 col-md-6</replace>
-      <replace>h5</replace>
-      <replace>&lt;h5 class=&quot;font-weight-bold&quot;&gt;</replace>
-      <replace>h6</replace>
-      <replace>call-for-paper</replace>
-      <replace>alt=&quot;ChairPerson&quot;</replace>
-      <replace>member/</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="974" />
-    <option name="height" value="1040" />
-  </component>
   <component name="ProjectId" id="1Q1kk6nAU3kiMro004KyBSwlM69" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/view/temp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/coordinator" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -108,18 +181,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\SLIET\SLIET-I-CON\view\temp" />
-      <recent name="E:\SLIET\Conference\assets" />
-      <recent name="E:\SLIET\Conference" />
-      <recent name="E:\SLIET\Conference\assets\images" />
-      <recent name="E:\SLIET\Conference\assets\images\member" />
+      <recent name="E:\SLIET\SLIET-I-CON\assets\images\coordinator" />
+      <recent name="E:\SLIET\SLIET-I-CON\assets\images\co-coordinator" />
+      <recent name="E:\SLIET\SLIET-I-CON\assets\images\joint-secretaries" />
+      <recent name="E:\SLIET\SLIET-I-CON\routes" />
+      <recent name="E:\SLIET\SLIET-I-CON\view\ACFBT" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\SLIET\SLIET-I-CON" />
       <recent name="E:\SLIET\SLIET-I-CON\view\temp" />
+      <recent name="E:\SLIET\SLIET-I-CON\view\AISCT" />
+      <recent name="E:\SLIET\SLIET-I-CON" />
       <recent name="E:\SLIET\Conference" />
       <recent name="E:\SLIET\Conference\assets" />
-      <recent name="E:\SLIET\Conference\App" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -162,7 +235,7 @@
       <workItem from="1542254205186" duration="9941000" />
       <workItem from="1542279766909" duration="610000" />
       <workItem from="1542344300146" duration="2220000" />
-      <workItem from="1566945630373" duration="831000" />
+      <workItem from="1566945630373" duration="16710000" />
     </task>
     <servers />
   </component>

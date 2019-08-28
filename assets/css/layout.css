@@ -36,8 +36,8 @@ body, html {
 }
 
 .logo {
-    max-width: 720px;
-    width: 100%;
+    width: 720px;
+    max-width: 100%;
 }
 
 .logo img {
@@ -132,7 +132,7 @@ body, html {
 .content {
     box-sizing: border-box;
     margin: auto;
-    padding: 100px 34px;
+    padding: 100px 20px;
     /*background: rgba(12, 84, 96, .5);*/
     font-family: 'Raleway', 'sans-serif';
 }
@@ -202,9 +202,6 @@ img + .overlay {
 }
 
 @media (max-width: 545px) {
-    .content {
-        padding: 100px 20px;
-    }
 
     .event-name {
         font-size: xx-large;
@@ -242,9 +239,152 @@ img + .overlay {
     }
 }
 
+.in-association img {
+    width: 200px;
+}
+
+/* ---------------------------- min width media queries ---------------------------- */
+@media (min-width: 576px) {
+    .mh-auto {
+        margin-top: -16px;
+        margin-bottom: 15px;
+    }
+}
+
+@media (min-width: 768px) {
+}
+
 @media (min-width: 992px) {
     .mh-auto {
         margin-top: -16px;
         margin-bottom: 15px;
     }
 }
+
+@media (min-width: 1200px) {
+
+}
+
+@media (min-width: 1400px) {
+
+}
+
+/* ---------------------------- max width media queries ---------------------------- */
+@media (max-width: 576px) {
+    .content {
+        padding-top: 0;
+    }
+
+    .in-association img {
+        width: 80px;
+    }
+
+    .in-association h2 {
+        font-size: 1.5rem;
+    }
+
+    .in-association h4 {
+        font-size: 1rem;
+    }
+
+    .in-association h5 {
+        font-size: .8rem;
+    }
+
+}
+
+
+@media (max-width: 768px) {
+
+}
+
+
+@media (max-width: 992px) {
+}
+
+
+@media (max-width: 1200px) {
+}
+
+@media (max-width: 1400px) {
+
+}
+
+@media (max-width: 576px) {
+}
+
+
+@media (min-width: 576px) and (max-width: 768px) {
+
+    .content {
+        padding-top: 0;
+    }
+
+    .logo {
+        width: 500px;
+    }
+
+    .event-name {
+        font-size: 50px;
+    }
+
+    .event-date {
+        font-size: 1.5rem;
+    }
+
+    .in-association img {
+        width: 120px;
+    }
+
+    .in-association h2 {
+        font-size: 1.5rem;
+    }
+
+    .in-association h4 {
+        font-size: 1rem;
+    }
+
+    .in-association h5 {
+        font-size: .8rem;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 992px) {
+}
+
+
+@media (min-width: 992px) and (max-width: 1400px) {
+    .content {
+        padding-top: 0;
+    }
+
+    .logo {
+        width: 600px;
+    }
+
+    .event-name {
+        font-size: 65px;
+    }
+
+    .in-association img {
+        width: 150px;
+    }
+
+    .in-association h2 {
+        font-size: 1.5rem;
+    }
+
+    .in-association h4 {
+        font-size: 1rem;
+    }
+
+    .in-association h5 {
+        font-size: .8rem;
+    }
+}
+
+
+@media (min-width: 1400px) {
+}
+

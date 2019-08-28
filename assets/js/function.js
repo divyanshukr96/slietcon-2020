@@ -1,7 +1,8 @@
 $(document).ready(function () {
     let url = window.location.href;
     let origin = window.location.origin;
-    path = url.replace(origin, '');
+    let path = url.replace(origin, '');
+    path = path.replace(/\/+/g, '/');
 
 
     let side_nav = $(".sidebar-nav a[href$='" + path + "']");
@@ -17,7 +18,7 @@ $(document).ready(function () {
         notice.modal('show')
     }
     notice.on('hidden.bs.modal', function (e) {
-        sessionStorage.setItem('notice','true')
+        sessionStorage.setItem('notice', 'true')
     })
 
 });

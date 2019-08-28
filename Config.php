@@ -23,6 +23,7 @@ defined("ERROR_REPORTING") or define("ERROR_REPORTING", -1); // set -1 to report
 //defined("DOMAIN") or define("DOMAIN", $DOMAIN); // Domain name
 defined("BASE_PATH") or define("BASE_PATH", realpath(dirname(__FILE__)));
 defined("TEMPLATE_PATH") or define("TEMPLATE_PATH", BASE_PATH . '/view');
+defined("ROUTE_PATH") or define("ROUTE_PATH", BASE_PATH . '/routes');
 //defined("CONFIG_PATH") or define("CONFIG_PATH", BASE_PATH . '/Config');
 //defined("RESOURCE_PATH") or define("RESOURCE_PATH", BASE_PATH . '/Resources');
 defined("ASSETS_PATH") or define("ASSETS_PATH", BASE_PATH . '/assets');
