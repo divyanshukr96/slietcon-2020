@@ -10,7 +10,7 @@
 <div id="sidebar-wrapper" class="bg-">
     <ul class="sidebar-nav">
         <li class="sidebar-brand my-2">
-            <a href="/acfbt">Home</a>
+            <a href="/acfbt" title="Advances in Chemical, Food and Bioprocess Technology">Home <small>(ACFBT)</small></a>
         </li>
         <li>
             <a href="/acfbt/conference-tracks">Conference Tracks</a>

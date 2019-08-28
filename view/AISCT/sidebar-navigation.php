@@ -10,7 +10,7 @@
 <div id="sidebar-wrapper" class="bg-">
     <ul class="sidebar-nav">
         <li class="sidebar-brand my-2">
-            <a href="/aisct">Home</a>
+            <a href="/aisct" title="Advances in Soft Computing Techniques">Home <small>(AISCT)</small></a>
         </li>
         <li>
             <a href="/aisct/conference-tracks">Conference Tracks</a>
