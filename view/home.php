@@ -201,5 +201,22 @@ $toggle = '"';
         </div>
     </div>
 
+    <div class="bg-light text-justify" id="conference-track">
+        <h5 class="heading py-2 text-center" title="SLIET International Conference - 2020">
+            Previous Conference
+        </h5>
+        <div class="container py-3">
+            <div class="col-12 px-4">
+                <dl>
+                    <dt>
+                        <a href="2019">
+                            SLIETCON – 2019 (A Multi-track National Conference on March 1 – 2, 2019 under TEQIP – III (Twinning Program))
+                        </a>
+                    </dt>
+                </dl>
+            </div>
+        </div>
+    </div>
+
 <?php
 include_once 'footer.php';

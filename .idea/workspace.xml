@@ -3,12 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e0cc1aa7-4c31-4174-8a08-834e5c13b875" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/ACFBT/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/registration.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/ACFBT/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/sidebar-navigation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/AISCT/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/registration.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/AISCT/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/sidebar-navigation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/AME/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/registration.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/AME/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/sidebar-navigation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/home.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +37,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/coordinator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/view/2019/about" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -48,19 +45,19 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\SLIET\SLIET-I-CON\assets\images\coordinator" />
-      <recent name="E:\SLIET\SLIET-I-CON\assets\images\co-coordinator" />
-      <recent name="E:\SLIET\SLIET-I-CON\assets\images\joint-secretaries" />
-      <recent name="E:\SLIET\SLIET-I-CON\routes" />
-      <recent name="E:\SLIET\SLIET-I-CON\view\ACFBT" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SLIET\SLIET-I-CON\view\2019" />
+      <recent name="E:\SLIET\SLIET-I-CON\routes" />
       <recent name="E:\SLIET\SLIET-I-CON\view\temp" />
       <recent name="E:\SLIET\SLIET-I-CON\view\AISCT" />
       <recent name="E:\SLIET\SLIET-I-CON" />
-      <recent name="E:\SLIET\Conference" />
-      <recent name="E:\SLIET\Conference\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SLIET\SLIET-I-CON\view\2019\about" />
+      <recent name="E:\SLIET\SLIET-I-CON\routes" />
+      <recent name="E:\SLIET\SLIET-I-CON\view\2019" />
+      <recent name="E:\SLIET\SLIET-I-CON\assets\images\coordinator" />
+      <recent name="E:\SLIET\SLIET-I-CON\assets\images\co-coordinator" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -105,7 +102,7 @@
       <workItem from="1542344300146" duration="2220000" />
       <workItem from="1566945630373" duration="21062000" />
       <workItem from="1567235244631" duration="611000" />
-      <workItem from="1567243545127" duration="5925000" />
+      <workItem from="1567243545127" duration="10520000" />
     </task>
     <servers />
   </component>

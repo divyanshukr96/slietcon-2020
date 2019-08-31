@@ -46,6 +46,9 @@ switch ($uri) {
             case "ame":
                 require_once ROUTE_PATH . '/ame.php';
                 break;
+            case "2019":
+                require_once ROUTE_PATH . '/2019.php';
+                break;
             default:
                 break;
         }

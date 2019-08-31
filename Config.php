@@ -8,8 +8,8 @@
 
 $TITLE = "SLIET-I-CON - 2020";
 $DOMAIN = "slietcon.org";
-$CONTACT = '8054527739';
-$EMAIL = 'care@atcindiatower.in';
+//$CONTACT = '';
+//$EMAIL = '';
 
 $FACEBOOK = '#facebook.com';
 $TWITTER = '#@twitter';
@@ -29,8 +29,8 @@ defined("ROUTE_PATH") or define("ROUTE_PATH", BASE_PATH . '/routes');
 defined("ASSETS_PATH") or define("ASSETS_PATH", BASE_PATH . '/assets');
 //defined("VENDOR_PATH") or define("VENDOR_PATH", BASE_PATH . '/vendor');
 
-defined("CONTACT") or define("CONTACT", $CONTACT);
-defined("EMAIL") or define("EMAIL", $EMAIL);
+//defined("CONTACT") or define("CONTACT", $CONTACT);
+//defined("EMAIL") or define("EMAIL", $EMAIL);
 defined("TITLE") or define("TITLE", $TITLE);
 
 error_reporting(ERROR_REPORTING);
