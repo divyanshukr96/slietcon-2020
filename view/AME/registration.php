@@ -24,19 +24,19 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                             Authors are invited to submit extended abstract (within 2 pages) and full length paper
                             through EasyChair Conference Management System
                         </dd>
-                        <dd>
-                            <a href="https://easychair.org/conferences/?conf=slietcon2019">Paper Submission link</a>
-                        </dd>
+<!--                        <dd>-->
+<!--                            <a href="https://easychair.org/conferences/?conf=slietcon2019">Paper Submission link</a>-->
+<!--                        </dd>-->
                         <dd>It is mandatory for one of the authors to register and present the paper for inclusion in
                             the conference proceedings.
                         </dd>
                         <dd> The paper template for extended abstract and full length papers (within 6-8 pages) may be
                             downloaded from SLIETICON-2020 website.
                         </dd>
-                        <dd>
-                            <a href="/assets/Template%20for%20extended%20abstract%20(SLIETCON-19).docx">Download paper
-                                template</a>
-                        </dd>
+<!--                        <dd>-->
+<!--                            <a href="/assets/Template%20for%20extended%20abstract%20(SLIETCON-19).docx">Download paper-->
+<!--                                template</a>-->
+<!--                        </dd>-->
                     </dl>
                 </div>
                 <div class="col-12 text-center mt-4">
@@ -56,11 +56,11 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                             <table class="table table-bordered table-sm">
                                 <tr>
                                     <td class="text-truncate">Account Name</td>
-                                    <td>SLIETCON-2019</td>
+                                    <td>SLIET-I-CON-2020</td>
                                 </tr>
                                 <tr>
                                     <td>Account No.</td>
-                                    <td>3716400347</td>
+<!--                                    <td>3716400347</td>-->
                                 </tr>
                                 <tr>
                                     <td>Bank Name</td>
@@ -179,7 +179,7 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                         </dd>
                     </dl>
                 </div>
-                <h6 class="px-2">For Any Query Regarding Registration, <a href="../../index.php">Please Contact us:</a>
+                <h6 class="px-2">For Any Query Regarding Registration, <a href="/ame/contact-us">Please Contact us:</a>
                 </h6>
             </div>
         </section>

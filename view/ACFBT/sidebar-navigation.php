@@ -61,7 +61,7 @@
         <li><a href="/acfbt/brochure">Conference Brochure</a></li>
         <li><a href="/acfbt/publication">Publication</a></li>
         <li style="text-indent: 0;">
-            <a href="/acfbt/instructions-for-oral-paper-poster-presentation"
+            <a href="#/acfbt/instructions-for-oral-paper-poster-presentation"
                style="padding: 8px 20px; line-height: 1.5rem;">
                 Instructions for Oral Paper and Poster Presentation
             </a>
@@ -72,7 +72,7 @@
 
         <li><a href="/acfbt/contact-us">Contact us</a></li>
         <div class="px-3 mt-3">
-            <a href="paper-submission" class="btn btn-outline-success text-white">Paper Submission</a>
+            <a href="#paper-submission" class="btn btn-outline-success text-white">Paper Submission</a>
             <!--            <a href="https://easychair.org/conferences/?conf=slietcon2019" class="btn btn-outline-success text-white">Paper Submission</a>-->
         </div>
     </ul>
