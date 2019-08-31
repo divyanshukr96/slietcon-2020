@@ -1,0 +1,11 @@
+/*#070c44*/
+
+#sidebar-wrapper, .navbar {
+    background: #495069 !important; /* Background Color */
+    /*background: #3b406c !important; !* Background Color *!*/
+}
+
+
+.heading {
+    background: rgb(117, 124, 151);
+}

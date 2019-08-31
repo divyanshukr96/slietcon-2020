@@ -37,7 +37,7 @@
 
         <li><a href="/aisct/dates">Important Dates</a></li>
 
-        <li><a href="/aisct//program-schedule">Program Schedule</a></li>
+        <li><a href="/aisct/program-schedule">Program Schedule</a></li>
 
 
         <li><a href="/aisct/venue">Venue</a></li>
