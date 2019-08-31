@@ -75,7 +75,7 @@
             <a href="#paper-submission" class="btn btn-outline-success text-white">Paper Submission</a>
             <!--            <a href="https://easychair.org/conferences/?conf=slietcon2019" class="btn btn-outline-success text-white">Paper Submission</a>-->
         </div>
-        <li class="mt-5 border"><a href="/aisct/contact-us">Previous Conference</a></li>
+        <li class="mt-5 border"><a href="/2019">Previous Conference</a></li>
     </ul>
 </div>
 <div class="modal fade" id="notice" tabindex="-1" role="dialog" aria-hidden="true">
