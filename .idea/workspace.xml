@@ -3,8 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="e0cc1aa7-4c31-4174-8a08-834e5c13b875" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/ACFBT/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/sidebar-navigation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ACFBT/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ACFBT/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/home.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/AISCT/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/sidebar-navigation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/sidebar-navigation.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +28,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -99,7 +106,9 @@
       <workItem from="1542254205186" duration="9941000" />
       <workItem from="1542279766909" duration="610000" />
       <workItem from="1542344300146" duration="2220000" />
-      <workItem from="1566945630373" duration="18593000" />
+      <workItem from="1566945630373" duration="21062000" />
+      <workItem from="1567235244631" duration="611000" />
+      <workItem from="1567243545127" duration="4000000" />
     </task>
     <servers />
   </component>
@@ -111,7 +120,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

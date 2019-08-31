@@ -10,7 +10,7 @@
 <div id="sidebar-wrapper" class="bg-">
     <ul class="sidebar-nav">
         <li class="sidebar-brand my-2">
-            <a href="/acfbt" title="Advances in Chemical, Food and Bioprocess Technology">Home <small>(ACFBT)</small></a>
+            <a href="/" title="SLIET International Conference - 2020">SLIET-I-CON - 2020</small></a>
         </li>
         <li>
             <a href="/acfbt/conference-tracks">Conference Tracks</a>

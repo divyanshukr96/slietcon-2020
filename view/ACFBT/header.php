@@ -26,6 +26,7 @@
     <script src="https://unpkg.com/popper.js@1.14.5/dist/umd/popper.min.js"></script>
     <link rel="stylesheet" href="../../assets/css/layout.css">
     <link rel="stylesheet" href="../../assets/css/simple-sidebar.css">
+    <link rel="stylesheet" href="../../assets/css/theme-acfbt.css">
     <link rel="icon" type="image/png" href="../../assets/images/SLIET-logo-black.png"/>
     <?php
     if (empty($title)) {
@@ -59,5 +60,9 @@
                     id="menu-toggle">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <a class="navbar-brand mr-auto" href="/">SLIET-I-CON - 2020</a>
+            <a class="navbar-brand mr-auto" href="/ACFBT">
+                <span class="large">International Conference on “Advances in Chemical, Food and Bio-process Technology” (ACFBT - 2020)</span>
+                <span class="small"
+                      title="International Conference on “Advances in Chemical, Food and Bio-process Technology” (ACFBT - 2020)">ACFBT - 2020</span>
+            </a>
         </nav>

@@ -1,0 +1,28 @@
+/*#0d2040*/
+/*#334454*/
+
+#sidebar-wrapper, .navbar {
+    background: #0d2040 !important; /* Background Color */
+}
+
+.sidebar-nav li.active a, .sidebar-nav li a:hover {
+    color: #16181bd9;
+    background: rgba(255, 255, 255, 0.55);
+}
+
+.sidebar-nav > .sidebar-brand a:hover {
+    color: #16181b;
+    background: rgba(255, 255, 255, 0.55);
+}
+
+
+.heading {
+    background: rgb(51, 68, 84);
+    color: whitesmoke;
+}
+
+@media (max-width: 555px) {
+    .event-date {
+        font-size: 1.5rem;
+    }
+}

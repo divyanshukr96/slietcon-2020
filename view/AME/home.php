@@ -31,11 +31,14 @@ include_once TEMPLATE_PATH . '/AME/header.php';
                                 <img src="../../assets/images/logo_wht.png" alt="SLIET logo">
                             </div>
                         </div>
-                        <div class="col-12 py-2 py-sm-4 mx-0 px-0 mt-lg-3">
+                        <div class="col-12 py-2 mx-0 px-0 mt-lg-3">
                             <h1 class="event-name title" title="SLIET International Conference - 2020">
                                 SLIET-I-CON - 2020
                             </h1>
-                            <h3 class="mt-md-2 event-date">A Multi-track International Conference</h3>
+<!--                            <h3 class="mt-md-2 event-date">A Multi-track International Conference</h3>-->
+                            <h3 class="mt-md-2 event-date">International conference on
+                                <br>Advances in Mechanical Engineering
+                            </h3>
                             <h4 class="mt-md-3 text-shadow">Feb 26 - 29, 2020</h4>
                             <h3 class="mt-md-3 event-date">Under TEQIP - III (Twinning Program) </h3>
                         </div>

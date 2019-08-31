@@ -243,6 +243,15 @@ img + .overlay {
     width: 200px;
 }
 
+/*------------------------------ Header manage css ------------------------------*/
+.navbar-brand .large {
+    display: none;
+}
+
+.navbar-brand .small {
+    /*display: none;*/
+}
+
 /* ---------------------------- min width media queries ---------------------------- */
 @media (min-width: 576px) {
     .mh-auto {
@@ -259,6 +268,14 @@ img + .overlay {
         margin-top: -16px;
         margin-bottom: 15px;
     }
+
+    .navbar-brand .large {
+        display: block;
+    }
+
+    .navbar-brand .small {
+        display: none;
+    }
 }
 
 @media (min-width: 1200px) {
@@ -271,8 +288,14 @@ img + .overlay {
 
 /* ---------------------------- max width media queries ---------------------------- */
 @media (max-width: 576px) {
+
+
     .content {
-        padding-top: 0;
+        padding-top: 32px;
+    }
+
+    .logo {
+        margin-bottom: -1.5rem;
     }
 
     .in-association img {

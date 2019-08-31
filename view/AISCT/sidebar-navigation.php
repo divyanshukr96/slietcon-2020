@@ -10,7 +10,7 @@
 <div id="sidebar-wrapper" class="bg-">
     <ul class="sidebar-nav">
         <li class="sidebar-brand my-2">
-            <a href="/aisct" title="Advances in Soft Computing Techniques">Home <small>(AISCT)</small></a>
+            <a href="/" title="SLIET International Conference - 2020">SLIET-I-CON - 2020</small></a>
         </li>
         <li>
             <a href="/aisct/conference-tracks">Conference Tracks</a>
