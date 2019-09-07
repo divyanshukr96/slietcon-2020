@@ -11,7 +11,6 @@ $(document).ready(function () {
         if (side_nav.closest(".dropdown-menu").length) {
             side_nav.css('color', '#16181b');
         }
-
     }
     const notice = $('#notice');
     if (!sessionStorage.getItem('notice')) {
@@ -19,7 +18,31 @@ $(document).ready(function () {
     }
     notice.on('hidden.bs.modal', function (e) {
         sessionStorage.setItem('notice', 'true')
+    });
+
+    const notice_ame = $('#notice_ame');
+    if (!sessionStorage.getItem('notice_ame')) {
+        notice_ame.modal('show')
+    }
+    notice_ame.on('hidden.bs.modal', function (e) {
+        sessionStorage.setItem('notice_ame', 'true')
+    });
+
+    const notice_aisct = $('#notice_aisct');
+    if (!sessionStorage.getItem('notice_aisct')) {
+        notice_aisct.modal('show')
+    }
+    notice_aisct.on('hidden.bs.modal', function (e) {
+        sessionStorage.setItem('notice_aisct', 'true')
     })
+
+    const notice_acfbt = $('#notice_acfbt');
+    if (!sessionStorage.getItem('notice_acfbt')) {
+        notice_acfbt.modal('show')
+    }
+    notice_acfbt.on('hidden.bs.modal', function (e) {
+        sessionStorage.setItem('notice_acfbt', 'true')
+    });
 
 });
 

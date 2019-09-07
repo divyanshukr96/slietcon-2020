@@ -78,7 +78,7 @@
         <li class="mt-5 border"><a href="/2019">Previous Conference</a></li>
     </ul>
 </div>
-<div class="modal fade" id="notice" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal fade" id="notice_aisct_block" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header heading">
@@ -90,24 +90,6 @@
             <div class="modal-body px-0">
                 <ul>
                     <!--                    <li>Last date for submission of Extended Abstract has been extended till 20th Feb, 2019</li>-->
-                    <li>
-                        The selected full papers presented during the conference after peer reviewing and plagiarism
-                        checking will be submitted for publication in the International open access journal.<br>
-                        <span>
-                            Journal of Emerging Technologies and Innovative Research, a UGC and ISSN
-                            Approved having Impact Factor: 5.87 bearing ISSN no. <u>2349-5162</u>
-                        </span>
-                    </li>
-                    <li style="margin-top: 10px">
-                        <a href="instructions-for-oral-paper-poster-presentation" class="font-weight-bold">
-                            Instructions for Oral Paper and Poster Presentation
-                        </a>
-                    </li>
-                    <li style="margin-top: 10px">
-                        <a href="program-schedule" class="font-weight-bold">
-                            Program Schedule of SLIETCON-2019
-                        </a>
-                    </li>
                 </ul>
             </div>
             <div class="modal-footer">
