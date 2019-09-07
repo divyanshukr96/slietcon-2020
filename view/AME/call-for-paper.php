@@ -64,17 +64,17 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                 </dd>
             </dl>
 
-            <dl>
-                <dt>Paper format</dt>
-                <dd>Research paper are to be submitted in the standard IEEE format.</dd>
-            </dl>
-            <dl>
-                <dt>Paper submission guidelines</dt>
-                <dd>The research papers will only be accepted through easy chair.<br>
-                    <a href="https://easychair.org/conferences/?conf=slietcon2019" class="btn btn-link">Paper Submit
-                        here</a>
-                </dd>
-            </dl>
+<!--            <dl>-->
+<!--                <dt>Paper format</dt>-->
+<!--                <dd>Research paper are to be submitted in the standard IEEE format.</dd>-->
+<!--            </dl>-->
+<!--            <dl>-->
+<!--                <dt>Paper submission guidelines</dt>-->
+<!--                <dd>The research papers will only be accepted through easy chair.<br>-->
+<!--                    <a href="https://easychair.org/conferences/?conf=slietcon2019" class="btn btn-link">Paper Submit-->
+<!--                        here</a>-->
+<!--                </dd>-->
+<!--            </dl>-->
         </div>
     </section>
 

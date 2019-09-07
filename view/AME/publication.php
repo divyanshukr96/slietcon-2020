@@ -16,16 +16,8 @@ require_once TEMPLATE_PATH . '/ame/header.php';
                 <h5 class="font-weight-bold py-3">Publication</h5>
             </div>
         </div>
-                <div class="container my-3">
-            <h5>
-                Extended abstract will be published in the form of conference proceedings and the selected full papers
-                presented during the conference after peer reviewing and plagiarism checking will be submitted for
-                publication in the International open access journal.
-            </h5>
-            <h5>
-                Journal of Emerging Technologies and Innovative Research, a UGC and ISSN Approved having
-                Impact Factor: 5.87 bearing ISSN no.: 2349-5162
-            </h5>
+        <div class="container my-3">
+           <h4 class="text-warning">To be announced . . .</h4>
         </div>
     </section>
 

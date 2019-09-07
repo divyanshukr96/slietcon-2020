@@ -144,39 +144,41 @@ include_once TEMPLATE_PATH . '/aisct/header.php';
                                 </tr>
                             </table>
                         </dd>
-                        <dd>
-                            <strong>Note:- </strong>Maximum One article could be contributed on a single registration.
-                            <br>
-                            The registration fee includes registration kit, copy of conference proceedings, Breakfasts,
-                            Lunches, Dinners and session tea.
-                        </dd>
+<!--                        -->
+<!--                        <dd>-->
+<!--                            <strong>Note:- </strong>Maximum One article could be contributed on a single registration.-->
+<!--                            <br>-->
+<!--                            The registration fee includes registration kit, copy of conference proceedings, Breakfasts,-->
+<!--                            Lunches, Dinners and session tea.-->
+<!--                        </dd>-->
+<!---->
+<!--                        <dd>-->
+<!--                            <h6 class="font-weight-bold"><strong style="color: #d9523e;">*</strong>-->
+<!--                                Authors Registration Fee Includes</h6>-->
+<!--                            <ul>-->
+<!--                                <li>Participation in the technical program</li>-->
+<!--                                <li>Welcome tea (March, 1)</li>-->
+<!--                                <li>Lunch (March, 1-2)</li>-->
+<!--                                <li>Conference Dinner (March 1)</li>-->
+<!--                                <li>Breakfast (March 2)</li>-->
+<!--                                <li>Registration kit</li>-->
+<!--                                <li>Conference proceedings</li>-->
+<!--                                <li>Coffee/Tea breaks (March, 1-2)</li>-->
+<!--                            </ul>-->
+<!---->
+<!--                            <h6 class="font-weight-bold"><strong style="color: #d9523e;">*</strong>-->
+<!--                                Participants Registration Fee Includes</h6>-->
+<!--                            <ul>-->
+<!--                                <li> Participation in the technical program</li>-->
+<!--                                <li>Welcome tea (March, 1)</li>-->
+<!--                                <li>Lunch (March, 1-2)</li>-->
+<!--                                <li>Conference Dinner (March 1)</li>-->
+<!--                                <li>Breakfast (March 2)</li>-->
+<!--                                <li>Registration kit</li>-->
+<!--                                <li>Coffee/Tea breaks (March, 1-2)</li>-->
+<!--                            </ul>-->
+<!--                        </dd>-->
 
-                        <dd>
-                            <h6 class="font-weight-bold"><strong style="color: #d9523e;">*</strong>
-                                Authors Registration Fee Includes</h6>
-                            <ul>
-                                <li>Participation in the technical program</li>
-                                <li>Welcome tea (March, 1)</li>
-                                <li>Lunch (March, 1-2)</li>
-                                <li>Conference Dinner (March 1)</li>
-                                <li>Breakfast (March 2)</li>
-                                <li>Registration kit</li>
-                                <li>Conference proceedings</li>
-                                <li>Coffee/Tea breaks (March, 1-2)</li>
-                            </ul>
-
-                            <h6 class="font-weight-bold"><strong style="color: #d9523e;">*</strong>
-                                Participants Registration Fee Includes</h6>
-                            <ul>
-                                <li> Participation in the technical program</li>
-                                <li>Welcome tea (March, 1)</li>
-                                <li>Lunch (March, 1-2)</li>
-                                <li>Conference Dinner (March 1)</li>
-                                <li>Breakfast (March 2)</li>
-                                <li>Registration kit</li>
-                                <li>Coffee/Tea breaks (March, 1-2)</li>
-                            </ul>
-                        </dd>
                     </dl>
                 </div>
                 <h6 class="px-2">For Any Query Regarding Registration, <a href="/aisct/contact-us">Please Contact us:</a>

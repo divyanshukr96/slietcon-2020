@@ -58,7 +58,7 @@
             </div>
 
             <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
-                <img src="../../assets/images/coordinator/pkumar.jpg" alt="Coordinator" class="img-thumbnail">
+                <img src="../../assets/images/coordinator/pushpa-jha.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Pushpa Jha</h6>
                     <h6>Prof., CHE</h6>

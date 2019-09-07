@@ -41,7 +41,7 @@
 <section id="wrapper">
     <!-- Sidebar -->
 
-    <?php require_once TEMPLATE_PATH . '/AME/sidebar-navigation.php' ?>
+    <?php require_once TEMPLATE_PATH . '/ame/sidebar-navigation.php' ?>
     <!-- /#sidebar-wrapper -->
 
     <!-- Page Content -->

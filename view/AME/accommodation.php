@@ -16,6 +16,10 @@ require_once TEMPLATE_PATH . '/ame/header.php';
                 <h5 class="font-weight-bold py-3">Accommodation</h5>
             </div>
         </div>
+
+        <div class="container my-3">
+            <h4 class="text-warning">To be announced . . .</h4>
+        </div>
         <div class="container my-3 d-none">
             <!--            <h5>-->
             <!--                Limited accommodation is available at the venue. Accommodations will be made available in the nearby-->
