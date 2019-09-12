@@ -70,16 +70,16 @@ $toggle = '"';
                                 <img src="../../assets/images/logo_wht.png" alt="SLIET logo">
                             </div>
                         </div>
-                        <div class="col-12 py-2 py-sm-4 mx-0 px-0 mt-lg-3">
+                        <div class="col-12 py-1 mx-0 px-0">
                             <h1 class="event-name title" title="SLIET International Conference - 2020">
                                 SLIET-I-CON - 2020
                             </h1>
-                            <h3 class="mt-md-2 event-date">A Multi-track International Conference</h3>
-                            <h4 class="mt-md-3 text-shadow">Feb 26 - 29, 2020</h4>
-                            <h3 class="mt-md-3 event-date">Under TEQIP - III (Twinning Program) </h3>
+                            <h3 class="mt-md-1 event-date">A Multi-track International Conference</h3>
+                            <h4 class="mt-md-2 text-shadow">Feb 26 - 29, 2020</h4>
+                            <h3 class="mt-md-2 event-date">Under TEQIP - III (Twinning Program) </h3>
                         </div>
                         <div class="col-12 py-2 mx-0 px-0 mt-2 in-association">
-                            <h5 class="font-italic text-warning font-weight-bold">in association with</h5>
+                            <h5 class="font-italic text-warning font-weight-bold" style="font-size: initial">in association with</h5>
                             <img src="../../assets/images/nit-uttarakhand-logo.png" alt="NIT, Uttarakhand">
                             <h2 class="mt-md-31 mb-0 event-date">National Institute of Technology</h2>
                             <h4 class="mt-md-31 text-shadow">Uttarakhand- 246174, INDIA</h4>
