@@ -18,7 +18,7 @@ $css = "<style>
 #clear-navbar{ display: none;}
 </style>";
 
-include_once TEMPLATE_PATH . '/AME/header.php';
+include_once TEMPLATE_PATH . '/ame/header.php';
 ?>
 
     <div class="parallax conf-img text-center text-white">

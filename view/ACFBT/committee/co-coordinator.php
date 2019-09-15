@@ -36,7 +36,7 @@
             </div>
 
             <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
-                <img src="../../assets/images/coordinator/no-image.png" alt="Coordinator"
+                <img src="../../assets/images/co-coordinator/akhouri-sanjay.jpg" alt="Coordinator"
                      class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Akhouri Sanjay Kr Sinha</h6>
@@ -45,7 +45,7 @@
             </div>
 
             <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
-                <img src="../../assets/images/coordinator/no-image.png" alt="Coordinator" class="img-thumbnail">
+                <img src="../../assets/images/co-coordinator/nikhil-prakash.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Nikhil Parkash Saxena</h6>
                     <h6>A.P, CHE </h6>

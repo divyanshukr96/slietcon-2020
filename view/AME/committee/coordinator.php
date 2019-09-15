@@ -18,7 +18,7 @@
         <div class="row text-center mt-md-3 mt-lg-4">
 
             <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
-                <img src="../../assets/images/coordinator/no-image.png" class="img-thumbnail" alt="Coordinator">
+                <img src="../../assets/images/coordinator/pksingh.jpg" class="img-thumbnail" alt="Coordinator">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Pradeep Kumar Singh</h6>
                     <h6>Prof., ME</h6>
@@ -26,7 +26,7 @@
             </div>
 
             <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
-                <img src="../../assets/images/coordinator/no-image.png" alt="Coordinator" class="img-thumbnail">
+                <img src="../../assets/images/coordinator/amandeepsingh.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Amandeep Singh Shahi</h6>
                     <h6>Prof., ME</h6>
