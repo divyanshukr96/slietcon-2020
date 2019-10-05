@@ -49,16 +49,27 @@
             </a>
 
             <div class="dropdown-menu rounded-0" aria-labelledby="committee">
+                <a class="dropdown-item" href="/acfbt/committee#national-advisory">Inter-National Advisory Council</a>
+                <a class="dropdown-item" href="/acfbt/committee#national-advisory">National Advisory Council</a>
                 <a class="dropdown-item" href="/acfbt/committee">Patron / Co-Patron</a>
-                <a class="dropdown-item" href="/acfbt/committee#national-advisory">National Advisory Committee</a>
                 <a class="dropdown-item" href="/acfbt/committee#chairperson">Chairperson</a>
                 <a class="dropdown-item" href="/acfbt/committee#coordinator">Coordinator</a>
             </div>
         </li>
 
-        <li><a href="/acfbt/sponsorship">Sponsorship</a></li>
+        <li><a href="/acfbt/sponsorship">Sponsorship & Exhibition</a></li>
 
-        <li><a href="/acfbt/brochure">Conference Brochure</a></li>
+        <li class="dropdown">
+            <a class="dropdown-toggle" href="#" id="committee" role="button" data-toggle="dropdown"
+               aria-haspopup="true" aria-expanded="false">Conference Brochure
+            </a>
+            <div class="dropdown-menu rounded-0" aria-labelledby="committee">
+                <a class="dropdown-item" href="/acfbt/brochure">Brochure</a>
+                <a class="dropdown-item" href="/acfbt/flyer">Flyer</a>
+            </div>
+        </li>
+
+<!--        <li><a href="/acfbt/brochure">Conference Brochure</a></li>-->
         <li><a href="/acfbt/publication">Publication</a></li>
         <li style="text-indent: 0;">
             <a href="#/acfbt/instructions-for-oral-paper-poster-presentation"
@@ -70,12 +81,14 @@
 
         <!--        <li><a href="/sliet-at-a-glance">SLIET at a Glance</a></li>-->
 
+        <li><a href="/acfbt/glimpse-of-sliet">Glimpse of SLIET </a></li>
+        <li><a href="/acfbt/places-to-visit">Places to visit around</a></li>
+        <li><a href="/acfbt/locate-us">Locate us</a></li>
         <li><a href="/acfbt/contact-us">Contact us</a></li>
-        <div class="px-3 mt-3">
+        <li class="px-3 mt-3">
             <a href="#paper-submission" class="btn btn-outline-success text-white">Paper Submission</a>
             <!--            <a href="https://easychair.org/conferences/?conf=slietcon2019" class="btn btn-outline-success text-white">Paper Submission</a>-->
-        </div>
-        <li class="mt-5 border"><a href="/2019">Previous Conference</a></li>
+        </li>
     </ul>
 </div>
 <div class="modal fade" id="notice_acfbt_block" tabindex="-1" role="dialog" aria-hidden="true">

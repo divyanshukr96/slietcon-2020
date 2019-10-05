@@ -8,6 +8,6 @@
 
 require_once TEMPLATE_PATH . '/acfbt/header.php';
 
-require_once TEMPLATE_PATH . '/common/dates.php';
+require_once TEMPLATE_PATH . '/common/locate-us.php';
 
 require_once TEMPLATE_PATH . '/footer.php';

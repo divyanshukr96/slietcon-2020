@@ -54,11 +54,31 @@ $toggle = '"';
             #clear-navbar {
                 display: none;
             }
+
+            @media (max-width: 576px) {
+                .content {
+                    padding-top: 0;
+                }
+            }
+
+            @media (min-width: 850px) {
+                #sidebar-wrapper {
+                    width: 0;
+                }
+            }
+
+            @media (min-width: 1150px) {
+                #sidebar-wrapper {
+                    width: 250px;
+                }
+            }
+
+
         </style>
 
     </head>
-    <body class="bg-light">
-
+<body class="bg-light">
+<?php require_once TEMPLATE_PATH . '/sidebar-navigation.php' ?>
 
     <div class="parallax conf-img text-center text-white">
         <div class="parallax-inner">
@@ -100,7 +120,7 @@ $toggle = '"';
     <div class="bg-light" id="sliet">
         <h4 class="heading py-3 text-center font-weight-bold">SLIET, Longowal </h4>
         <div class="container text-justify py-3">
-            <p class="px-4">
+            <p class="px-md-4">
                 Sant Longowal Institute of Engineering and Technology (SLIET) is a centrally funded technical Institute
                 (Deemed-to-be- University) which has been set up by MHRD, Government of India, with an aim to achieve
                 technological excellence through innovation. It caters to the technical manpower requirements at various
@@ -126,7 +146,7 @@ $toggle = '"';
             About SLIET-I-CON - 2020
         </h4>
         <div class="container py-3">
-            <p class="px-4">
+            <p class="px-md-4">
                 SLIET-I-CON-2020, a Multi-Track International Conference to be held during February 26-29, 2020 is a
                 prestigious event organized by <strong>Sant Longowal Institute of Engineering and Technology (SLIET),
                     Longowal </strong> with a motivation to provide an excellent international platform to encourage

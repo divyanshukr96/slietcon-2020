@@ -12,7 +12,7 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
     <section class="mh-auto">
         <div class="heading">
             <div class="container px-0">
-                <h5 class="font-weight-bold p-3">Conference Tracks</h5>
+                <h5 class="font-weight-bold p-3">Conferences</h5>
             </div>
         </div>
         <div class="container pt-3">
@@ -36,22 +36,21 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
                     <dl>
                         <dt>
                             <a href="/AME">
-                                Track I: International conference on “Advances in Mechanical Engineering” (AME- 2020)
+                                International conference on “Advances in Mechanical Engineering” (AME- 2020)
                             </a>
                         </dt>
                     </dl>
                     <dl>
                         <dt>
                             <a href="/AISCT">
-                                Track II: International Conference on “Advances in Soft Computing Techniques”
-                                (AISCT-2020)
+                                International Conference on “Advances in Soft Computing Techniques” (AISCT-2020)
                             </a>
                         </dt>
                     </dl>
                     <dl>
                         <dt>
                             <a href="/ACFBT">
-                                Track III: International Conference on “Advances in Chemical, Food and Bioprocess
+                                International Conference on “Advances in Chemical, Food and Bioprocess
                                 Technology” (ACFBT-2020)
                             </a>
                         </dt>

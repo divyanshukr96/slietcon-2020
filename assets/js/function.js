@@ -53,7 +53,7 @@ $('body').scroll(function () {
 });
 $(window).scroll(function () {
     // const top = $('body').scrollTop() > 80;
-    scrollTop($(window).scrollTop() > 80)
+    scrollTop($(window).scrollTop() > 40)
 });
 
 function scrollTop(scroll) {

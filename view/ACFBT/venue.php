@@ -22,7 +22,7 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
                 <h5 class="m-0 font-weight-bold py-2 my-2">
                     Sant Longowal Institute of Engineering and Technology (SLIET), Punjab
                 </h5>
-                <img src='../../assets/images/sliet-academic-venu.jpg' alt="" class="w-100" alt="">
+                <img src='../../assets/images/sliet-acad-venue.png' alt="" class="w-100" alt="">
             </div>
             <div class="py-4">
                 <dl>

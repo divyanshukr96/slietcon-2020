@@ -48,6 +48,11 @@ if (count($route) < 2) {
             $title = TITLE . ' | Brochure';
             require_once TEMPLATE_PATH . '/acfbt/brochure.php';
             break;
+
+        case 'flyer':
+            $title = TITLE . ' | Flyer';
+            require_once TEMPLATE_PATH . '/acfbt/flyer.php';
+            break;
         case 'publication':
             $title = TITLE . ' | Publication';
             require_once TEMPLATE_PATH . '/acfbt/publication.php';
@@ -68,6 +73,19 @@ if (count($route) < 2) {
         case 'paper-submission':
             $title = TITLE . ' | Paper Submission';
             require_once TEMPLATE_PATH . '/acfbt/paper-submission.php';
+            break;
+
+        case 'glimpse-of-sliet':
+            $title = TITLE . ' | Glimpse of SLIET';
+            require_once TEMPLATE_PATH . '/acfbt/glimpse-of-sliet.php';
+            break;
+        case 'places-to-visit':
+            $title = TITLE . ' | Glimpse of SLIET';
+            require_once TEMPLATE_PATH . '/acfbt/places-to-visit.php';
+            break;
+        case 'locate-us':
+            $title = TITLE . ' | Locate Us';
+            require_once TEMPLATE_PATH . '/acfbt/locate-us.php';
             break;
 
 

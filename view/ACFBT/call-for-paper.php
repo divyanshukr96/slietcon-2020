@@ -30,7 +30,7 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
 
             <dl class="position-relative">
                 <div id="NHFPTN-2019" class="position-absolute" style="top: -75px; opacity: 0"></div>
-                <dt>Track III: International Conference on “Advances in Chemical, Food and Bioprocess Technology”
+                <dt>International Conference on “Advances in Chemical, Food and Bioprocess Technology”
                     (ACFBT-2020)
                 </dt>
                 <dd class="mt-2">

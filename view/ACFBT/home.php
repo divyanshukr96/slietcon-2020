@@ -27,8 +27,13 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
                 <div class="content-inner">
                     <div class="row text-center">
                         <div class="col-12 px-0 mb-4">
+                            <div class="mx-auto p-0 mb-1">
+                                <img src="../../assets/images/logo_wht_new.png" alt="SLIET logo"
+                                     style="max-width: 100%;">
+                            </div>
+
                             <div class="mx-auto logo p-0">
-                                <img src="../../assets/images/logo_wht.png" alt="SLIET logo">
+                                <img src="../../assets/images/SLIET Logo 1.png" alt="SLIET logo">
                             </div>
                         </div>
                         <div class="col-12 py-1 mx-0 px-0">
@@ -42,7 +47,8 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
                             <h3 class="mt-md-2 event-date">Under TEQIP - III (Twinning Program) </h3>
                         </div>
                         <div class="col-12 py-2 mx-0 px-0 mt-2 in-association">
-                            <h5 class="font-italic text-warning font-weight-bold" style="font-size: initial">in association with</h5>
+                            <h5 class="font-italic text-warning font-weight-bold" style="font-size: initial">in
+                                association with</h5>
                             <img src="../../assets/images/nit-uttarakhand-logo.png" alt="NIT, Uttarakhand">
                             <h2 class="mt-md-31 mb-0 event-date">National Institute of Technology</h2>
                             <h4 class="mt-md-31 text-shadow">Uttarakhand- 246174, INDIA</h4>
@@ -66,12 +72,12 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
                 M.Sc., MBA and Ph.D. in various disciplines of Science, Management, Engineering and Technology. SLIET
                 shall strive to act as an international podium for the development and transfer of technical competence
                 in academics through formal and non formal education, entrepreneurship and research to meet the changing
-                needs of society. The institute has a sprawling area of 447 acres of land. The campus of the institute
+                needs of society. The institute has a sprawling area of 445 acres of land. The campus of the institute
                 extends a beautiful and well developed lush green area with many topographically featured picturesque
                 landscapes, numerous buildings of various nature and stature and metal road network. The campus presents
                 a spectacle of harmony and natural ecosystem. The institute is situated at the outskirts of Longowal and
                 is around 8 km from Sangrur-Barnala Highway. The Institute is connected by road with Sangrur (18 km),
-                Barnala (25 km), Patiala (75 km), Ludhiana (100 km), Chandigarh (150 km) and Delhi (360 km). The nearest
+                Barnala (25 km), Patiala (75 km), Ludhiana (100 km), Chandigarh (150 km) and Delhi (270 km). The nearest
                 railway stations are Sangrur (18 km), Sunam (16 km) and Dhuri (32 km) and the nearest airport is
                 Chandigarh (130 km).
             </p>

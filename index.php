@@ -34,6 +34,34 @@ switch ($uri) {
         $title = TITLE . ' | About';
         require_once TEMPLATE_PATH . '/about/slietcon.php';
         break;
+    case '/important-dates':
+        $title = TITLE . ' | Important Dates';
+        require_once TEMPLATE_PATH . '/dates.php';
+        break;
+    case '/venue':
+        $title = TITLE . ' | Venue';
+        require_once TEMPLATE_PATH . '/venue.php';
+        break;
+    case '/sponsorship':
+        $title = TITLE . ' | Sponsorship & Exhibition';
+        require_once TEMPLATE_PATH . '/sponsorship.php';
+        break;
+    case '/accommodation':
+        $title = TITLE . ' | Accommodation';
+        require_once TEMPLATE_PATH . '/accommodation.php';
+        break;
+    case '/glimpse-of-sliet':
+        $title = TITLE . ' | Glimpse of SLIET';
+        require_once TEMPLATE_PATH . '/glimpse-of-sliet.php';
+        break;
+    case '/places-to-visit':
+        $title = TITLE . ' | Glimpse of SLIET';
+        require_once TEMPLATE_PATH . '/places-to-visit.php';
+        break;
+    case '/locate-us':
+        $title = TITLE . ' | Locate Us';
+        require_once TEMPLATE_PATH . '/locate-us.php';
+        break;
 
     default:
         switch ($route[0]) {

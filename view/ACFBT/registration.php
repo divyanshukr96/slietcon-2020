@@ -56,11 +56,11 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
                             <table class="table table-bordered table-sm">
                                 <tr>
                                     <td class="text-truncate">Account Name</td>
-                                    <td>SLIET-I-CON-2020</td>
+                                    <td>ACFBT-2020</td>
                                 </tr>
                                 <tr>
                                     <td>Account No.</td>
-<!--                                    <td>3716400347</td>-->
+                                    <td>3773780953</td>
                                 </tr>
                                 <tr>
                                     <td>Bank Name</td>
@@ -122,7 +122,7 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
                                     <th>After Dec. 31, 2019</th>
                                 </tr>
                                 <tr>
-                                    <td>Student/Postdoc</td>
+                                    <td>Student/Post Doc.</td>
                                     <td>Rs. 3000/-</td>
                                     <td>Rs. 3500/- </td>
                                     <td>$ 125</td>
@@ -141,6 +141,13 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
                                     <td>Rs. 10000/- </td>
                                     <td>$ 275</td>
                                     <td>$ 325</td>
+                                </tr>
+                                <tr>
+                                    <td>Accompanying person </td>
+                                    <td>Rs. 1500/-</td>
+                                    <td>Rs. 2000/- </td>
+                                    <td>$ 75</td>
+                                    <td>$ 100</td>
                                 </tr>
                             </table>
                         </dd>
