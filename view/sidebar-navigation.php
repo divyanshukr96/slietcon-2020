@@ -13,8 +13,27 @@
             <a href="/" title="SLIET International Conference - 2020">SLIET-I-CON - 2020</small></a>
         </li>
 
-        <li><a href="/#about-slieticon">About SLIET-I-CON - 2020</a></li>
-        <li><a href="/#sliet">About SLIET, Longowal</a></li>
+        <li class="dropdown">
+            <a class="dropdown-toggle" href="#" id="about-drop" role="button" data-toggle="dropdown"
+               aria-haspopup="true" aria-expanded="false">About
+            </a>
+            <div class="dropdown-menu rounded-0" aria-labelledby="about-drop">
+                <a class="dropdown-item" href="/#about-slieticon">SLIET-I-CON - 2020</a>
+                <a class="dropdown-item" href="/#sliet">SLIET, Longowal</a>
+                <a class="dropdown-item" href="/about/chemical-department">Department of Chemical Engineering</a>
+                <a class="dropdown-item" href="/about/computer-department">Department of Computer Science &
+                    Engineering</a>
+<!--                <a class="dropdown-item" href="/about/electonics-communication-department">Department of Electronics and-->
+<!--                    Communication Engineering</a>-->
+<!--                <a class="dropdown-item" href="/about/electrical-instrumentation-department"> Department of Electrical-->
+<!--                    and Instrumentation Engineering</a>-->
+                <a class="dropdown-item" href="/about/food-department">Department of Food Engineering and Technology</a>
+                <a class="dropdown-item" href="/about/mechanical-department">Department of Mechanical Engineering</a>
+            </div>
+        </li>
+
+<!--        <li><a href="/#about-slieticon">About SLIET-I-CON - 2020</a></li>-->
+<!--        <li><a href="/#sliet">About SLIET, Longowal</a></li>-->
 
         <li>
             <a href="/AME" style="text-indent: initial; padding-left: 20px; line-height: 1.5" class="py-2">
@@ -37,14 +56,13 @@
         <li><a href="/sponsorship">Sponsorship & Exhibition</a></li>
 
 
-<!--        <li><a href="/acfbt/registration">Registration</a></li>-->
+        <!--        <li><a href="/acfbt/registration">Registration</a></li>-->
 
         <li><a href="/accommodation">Accommodation </a></li>
         <li><a href="/glimpse-of-sliet">Glimpse of SLIET </a></li>
         <li><a href="/places-to-visit">Places to visit around</a></li>
         <li><a href="/locate-us">Locate us</a></li>
 
-        <!--        <li><a href="/sliet-at-a-glance">SLIET at a Glance</a></li>-->
 
         <li class="mt-3 border"><a href="/2019">Previous Conference</a></li>
     </ul>

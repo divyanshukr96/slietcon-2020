@@ -17,14 +17,14 @@ include_once TEMPLATE_PATH . '/header.php';
         </div>
         <div class="container p-0">
             <div class="position-relative">
-                <img src="../../assets/images/chemical-food.jpg" alt="" class="w-100">
+                <img src="http://mech.sliet.ac.in/files/2012/02/SLIET-11.jpg" alt="" class="w-100">
             </div>
             <div class="text-justify">
                 <p class="p-4">
-                    The Department of Food Engineering and Technology offers Integrated Certificate, Diploma (ICD),
+                    The Department of Mechanical Engineering offers Integrated Certificate, Diploma (ICD),
                     B.E., M.Tech. and Ph.D. courses. Besides teaching, faculty members are involved in active research
-                    work and are being handling various projects funded by different agencies (DST, DBT, AICTE, ICAR,
-                    CSIR, MHRD, MoFPI) in their respective fields of interests.
+                    work and are being handling various projects funded by DST, MHRD, AICTE etc. Financial assistance is
+                    also being received to carry out Rural Development Activities.
                 </p>
             </div>
         </div>

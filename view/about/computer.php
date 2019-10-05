@@ -6,7 +6,7 @@
  * Time: 03:18
  */
 
-include_once TEMPLATE_PATH . '/header.php.tmp';
+include_once TEMPLATE_PATH . '/header.php';
 ?>
 
     <section class="mh-auto">

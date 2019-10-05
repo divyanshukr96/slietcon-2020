@@ -6,7 +6,7 @@
  * Time: 03:18
  */
 
-include_once TEMPLATE_PATH. '/2019/header.php';
+include_once TEMPLATE_PATH . '/2019/header.php';
 ?>
 
     <section class="mh-auto">
@@ -21,14 +21,11 @@ include_once TEMPLATE_PATH. '/2019/header.php';
             </div>
             <div class="text-justify">
                 <p class="p-4">
-                    The Department of Computer Science and Engineering was established in the year 1991 and has been
-                    successfully imparting quality
-                    education to Masters, Bachelors and Integrated Certificate-Diploma (ICD) courses in Computer Science
-                    & Engineering. The department is also admitting the candidates for full time and part time Ph.D.
-                    programmes. The department has the state of the art facilities for R&D activities. The faculty of
-                    the department is actively engaged in development and research in the areas of machine learning,
-                    image processing, information security, meta-heuristics, cloud computing, natural language
-                    processing, computer networks and big data etc.
+                    The Department of Chemical Engineering was established in the year 1991 and is offering Integrated
+                    Certificate Diploma course (ICD) and Degree (B.E.) course, M.Tech., and Ph.D. programs. The
+                    department is equipped with state of art infrastructure, including modern classrooms, seminar halls
+                    and well-established laboratories equipped with modernized facilities, and equipments. The faculty
+                    is actively engaged in research and development in their respective fields of interests.
                 </p>
             </div>
 

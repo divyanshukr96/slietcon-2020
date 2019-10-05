@@ -56,5 +56,5 @@
                     id="menu-toggle">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <a class="navbar-brand mr-auto" href="/2019">SLIETCON - 2019</a>
+            <a class="navbar-brand mr-auto" href="/2019">SLIET-I-CON - 2020</a>
         </nav>

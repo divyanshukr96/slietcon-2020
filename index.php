@@ -63,6 +63,23 @@ switch ($uri) {
         require_once TEMPLATE_PATH . '/locate-us.php';
         break;
 
+    case '/about/chemical-department':
+        $title = 'Department of Chemical Engineering';
+        require_once TEMPLATE_PATH . '/about/chemical.php';
+        break;
+    case '/about/computer-department':
+        $title = 'Department of Computer Science & Engineering';
+        require_once TEMPLATE_PATH . '/about/computer.php';
+        break;
+    case '/about/food-department':
+        $title = 'Department of Food Engineering and Technology';
+        require_once TEMPLATE_PATH . '/about/food.php';
+        break;
+    case '/about/mechanical-department':
+        $title = 'Department of Mechanical Engineering';
+        require_once TEMPLATE_PATH . '/about/mechanical.php';
+        break;
+
     default:
         switch ($route[0]) {
             case "acfbt":

@@ -21,16 +21,16 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
                     <dl>
                         <dt>Registration and Full Length Paper Submission</dt>
                         <dd class="pt-2">
-                            Authors are invited to submit extended abstract (within 2 pages) and full length paper
+                            Authors are invited to submit  full length paper
                             through EasyChair Conference Management System
                         </dd>
-<!--                        <dd>-->
-<!--                            <a href="https://easychair.org/conferences/?conf=slietcon2019">Paper Submission link</a>-->
-<!--                        </dd>-->
+                        <dd>
+                            <a href="https://easychair.org/conferences/?conf=act2020">Paper Submission link</a>
+                        </dd>
                         <dd>It is mandatory for one of the authors to register and present the paper for inclusion in
                             the conference proceedings.
                         </dd>
-                        <dd> The paper template for extended abstract and full length papers (within 6-8 pages) may be
+                        <dd> The paper template for full length papers (within 6-8 pages) may be
                             downloaded from SLIETICON-2020 website.
                         </dd>
 <!--                        <dd>-->
@@ -47,10 +47,9 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
                     <dl>
                         <dt><h5 class="font-weight-bold">Mode of payment</h5></dt>
                         <dd class="text-justify">
-                            Registration fee along with registration form is to be sent in the form of DD drawn in
-                            favour of <strong>account name of respective track</strong> payable at Longowal. The
-                            participants can also deposit registration fee by bank transfer and send the online
-                            transaction details to the organizers. The Electronic bank transfer details are as under:
+                            The parcipants are requested to deposit registraon fee by only bank
+                            transfer and send the online transacon details to the organizers. The
+                            Electronic bank transfer details are as under:
                         </dd>
                         <dd class="col-12 col-lg-6 offset-lg-3 p-0">
                             <table class="table table-bordered table-sm">
