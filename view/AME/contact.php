@@ -41,30 +41,6 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                             <td>+91 9815651868, 1672253286(O)</td>
                         </tr>
 
-                        <tr>
-                            <th scope="row" rowspan="2" class="align-middle">AISCT-2020</th>
-                            <td>Dr. Birmohan Singh</td>
-                            <td><a href="mailto:aisct2020@sliet.ac.in ">aisct2020@sliet.ac.in </a></td>
-                            <td>+91 9815980400, 1672253208(O)</td>
-                        </tr>
-                        <tr>
-                            <td>Dr. Ashwani Kumar Aggarwal</td>
-                            <td><a href="mailto:aisct2020@sliet.ac.in ">aisct2020@sliet.ac.in </a></td>
-                            <td>+91 9530530190, 1672253347(O)</td>
-                        </tr>
-
-
-                        <tr>
-                            <th scope="row" rowspan="2" class="align-middle">ACFBT-2020</th>
-                            <td>Dr. Vikas Nanda</td>
-                            <td><a href="mailto:acfbt2020@sliet.ac.in">acfbt2020@sliet.ac.in</a></td>
-                            <td>+91 9815980054, 1672253254(O)</td>
-                        </tr>
-                        <tr>
-                            <td>Dr. Gulshan Kr. Jawa</td>
-                            <td><a href="mailto:acfbt2020@sliet.ac.in">acfbt2020@sliet.ac.in</a></td>
-                            <td>+91 9463167202, 1672253322(O)</td>
-                        </tr>
 
                         </tbody>
                     </table>

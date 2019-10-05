@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="e0cc1aa7-4c31-4174-8a08-834e5c13b875" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ACFBT/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ACFBT/dates.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/dates.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/dates.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/dates.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/dates.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/dates.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +111,8 @@
       <workItem from="1567288428082" duration="70000" />
       <workItem from="1567846941075" duration="2971000" />
       <workItem from="1568254655170" duration="995000" />
-      <workItem from="1568442730460" duration="7345000" />
+      <workItem from="1568442730460" duration="7729000" />
+      <workItem from="1570250125037" duration="1249000" />
     </task>
     <servers />
   </component>

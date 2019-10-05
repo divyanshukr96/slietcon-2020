@@ -22,20 +22,21 @@ include_once TEMPLATE_PATH . '/ame/header.php';
 
                     <table class="table table-bordered mt-4">
                         <tr>
-                            <th>Extended Abstract submission :</th>
+                            <th>Full paper submission :</th>
                             <th>November 25, 2019</th>
                         </tr>
                         <tr>
-                            <th>Acceptance Notification of Extended Abstract :</th>
+                            <th>Acceptance Notification of full paper :</th>
                             <th>November 30, 2019</th>
                         </tr>
-                        <tr>
-                            <th>Submission of full paper :</th>
-                            <th>December 15, 2019</th>
-                        </tr>
+                        <!--                        <tr>-->
+                        <!--                            <th>Submission of full paper :</th>-->
+                        <!--                            <th>December 15, 2019</th>-->
+                        <!--                        </tr>-->
                         <tr>
                             <th>Revised paper Submission :</th>
-                            <th>January 15 - 20, 2020</th>
+                            <th>December 15, 2019</th>
+                            <!--                            <th>January 15 - 20, 2020</th>-->
                         </tr>
                     </table>
                 </div>

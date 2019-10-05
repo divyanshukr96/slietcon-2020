@@ -377,9 +377,9 @@ img + .overlay {
 }
 
 
-@media (min-width: 992px) and (max-width: 1400px) {
+@media (min-width: 992px) and (max-width: 1500px) {
     .content {
-        padding-top: 0;
+        padding-top: 40px;
     }
 
     .logo {
@@ -405,9 +405,41 @@ img + .overlay {
     .in-association h5 {
         font-size: .8rem;
     }
+
+    @media (min-height: 550px) and (max-height: 610px) {
+        .content {
+            padding-top: 10px;
+        }
+
+        .logo {
+            width: 550px;
+            margin-bottom: -16px;
+        }
+
+        .event-name {
+            font-size: 55px;
+        }
+
+        .in-association img {
+            width: 100px;
+        }
+
+        .in-association h2 {
+            font-size: 1.5rem;
+        }
+
+        .in-association h4 {
+            font-size: 1rem;
+        }
+
+        .in-association h5 {
+            font-size: .8rem;
+        }
+    }
 }
 
 
-@media (min-width: 1400px) {
+@media (min-width: 1500px) {
+
 }
 
