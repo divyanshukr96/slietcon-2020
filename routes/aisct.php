@@ -48,6 +48,10 @@ if (count($route) < 2) {
             $title = TITLE . ' | Brochure';
             require_once TEMPLATE_PATH . '/aisct/brochure.php';
             break;
+        case 'flyer':
+            $title = TITLE . ' | Flyer';
+            require_once TEMPLATE_PATH . '/aisct/flyer.php';
+            break;
         case 'publication':
             $title = TITLE . ' | Publication';
             require_once TEMPLATE_PATH . '/aisct/publication.php';

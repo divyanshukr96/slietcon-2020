@@ -58,7 +58,15 @@
 
         <li><a href="/ame/sponsorship">Sponsorship</a></li>
 
-        <li><a href="/ame/brochure">Conference Brochure</a></li>
+        <li class="dropdown">
+            <a class="dropdown-toggle" href="#" id="committee" role="button" data-toggle="dropdown"
+               aria-haspopup="true" aria-expanded="false">Conference Brochure
+            </a>
+            <div class="dropdown-menu rounded-0" aria-labelledby="committee">
+                <a class="dropdown-item" href="/ame/brochure">Brochure</a>
+                <a class="dropdown-item" href="/ame/flyer">Flyer</a>
+            </div>
+        </li>
         <li><a href="/ame/publication">Publication</a></li>
         <li style="text-indent: 0;">
             <a href="#/ame/instructions-for-oral-paper-poster-presentation"

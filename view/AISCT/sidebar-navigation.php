@@ -58,7 +58,15 @@
 
         <li><a href="/aisct/sponsorship">Sponsorship</a></li>
 
-        <li><a href="/aisct/brochure">Conference Brochure</a></li>
+        <li class="dropdown">
+            <a class="dropdown-toggle" href="#" id="committee" role="button" data-toggle="dropdown"
+               aria-haspopup="true" aria-expanded="false">Conference Brochure
+            </a>
+            <div class="dropdown-menu rounded-0" aria-labelledby="committee">
+                <a class="dropdown-item" href="/aisct/brochure">Brochure</a>
+                <a class="dropdown-item" href="/aisct/flyer">Flyer</a>
+            </div>
+        </li>
         <li><a href="/aisct/publication">Publication</a></li>
         <li style="text-indent: 0;">
             <a href="#/aisct/instructions-for-oral-paper-poster-presentation"
