@@ -66,8 +66,14 @@ $toggle = '"';
                 <div class="content-inner">
                     <div class="row text-center">
                         <div class="col-12 px-0 mb-4">
+                            <div class="mx-auto p-0 mb-1">
+                                <img src="../../assets/images/logo_wht_new.png" alt="SLIET logo"
+                                     style="max-width: 100%;">
+                            </div>
+
+
                             <div class="mx-auto logo p-0">
-                                <img src="../../assets/images/logo_wht.png" alt="SLIET logo">
+                                <img src="../../assets/images/SLIET Logo 1.png" alt="SLIET logo">
                             </div>
                         </div>
                         <div class="col-12 py-1 mx-0 px-0">
@@ -79,7 +85,8 @@ $toggle = '"';
                             <h3 class="mt-md-2 event-date">Under TEQIP - III (Twinning Program) </h3>
                         </div>
                         <div class="col-12 py-2 mx-0 px-0 mt-2 in-association">
-                            <h5 class="font-italic text-warning font-weight-bold" style="font-size: initial">in association with</h5>
+                            <h5 class="font-italic text-warning font-weight-bold" style="font-size: initial">in
+                                association with</h5>
                             <img src="../../assets/images/nit-uttarakhand-logo.png" alt="NIT, Uttarakhand">
                             <h2 class="mt-md-31 mb-0 event-date">National Institute of Technology</h2>
                             <h4 class="mt-md-31 text-shadow">Uttarakhand- 246174, INDIA</h4>
@@ -153,7 +160,7 @@ $toggle = '"';
 
     <div class="bg-light text-justify" id="conference-track">
         <h4 class="heading py-3 text-center font-weight-bold" title="SLIET International Conference - 2020">
-            Conference Tracks
+            Conferences
         </h4>
         <div class="container py-3">
             <p class="px-4">
@@ -177,21 +184,21 @@ $toggle = '"';
                 <dl>
                     <dt>
                         <a href="AME">
-                            Track I: International conference on “Advances in Mechanical Engineering” (AME-2020)
+                            International conference on “Advances in Mechanical Engineering” (AME-2020)
                         </a>
                     </dt>
                 </dl>
                 <dl>
                     <dt>
                         <a href="AISCT">
-                            Track II: International Conference on “Advances in Soft Computing Techniques” (AISCT-2020)
+                            International Conference on “Advances in Soft Computing Techniques” (AISCT-2020)
                         </a>
                     </dt>
                 </dl>
                 <dl>
                     <dt>
                         <a href="ACFBT">
-                            Track III: International Conference on “Advances in Chemical, Food and Bio-process
+                            International Conference on “Advances in Chemical, Food and Bio-process
                             Technology” (ACFBT-2020)
                         </a>
                     </dt>
@@ -210,7 +217,8 @@ $toggle = '"';
                 <dl>
                     <dt>
                         <a href="2019">
-                            SLIETCON – 2019 (A Multi-track National Conference on March 1 – 2, 2019 under TEQIP – III (Twinning Program))
+                            SLIETCON – 2019 (A Multi-track National Conference on March 1 – 2, 2019 under TEQIP – III
+                            (Twinning Program))
                         </a>
                     </dt>
                 </dl>

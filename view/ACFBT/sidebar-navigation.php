@@ -13,7 +13,7 @@
             <a href="/" title="SLIET International Conference - 2020">SLIET-I-CON - 2020</small></a>
         </li>
         <li>
-            <a href="/acfbt/conference-tracks">Conference Tracks</a>
+            <a href="/acfbt/conference-tracks">Conferences</a>
         </li>
         <li class="dropdown">
             <a class="dropdown-toggle" href="#" id="about-drop" role="button" data-toggle="dropdown"
