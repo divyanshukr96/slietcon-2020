@@ -72,6 +72,19 @@ if (count($route) < 2) {
             break;
 
 
+        case 'glimpse-of-sliet':
+            $title = TITLE . ' | Glimpse of SLIET';
+            require_once TEMPLATE_PATH . '/ame/glimpse-of-sliet.php';
+            break;
+        case 'places-to-visit':
+            $title = TITLE . ' | Glimpse of SLIET';
+            require_once TEMPLATE_PATH . '/ame/places-to-visit.php';
+            break;
+        case 'locate-us':
+            $title = TITLE . ' | Locate Us';
+            require_once TEMPLATE_PATH . '/ame/locate-us.php';
+            break;
+
         case 'sliet-longowal':
 //        $title = TITLE.' | Conference Track';
             require_once TEMPLATE_PATH . '/about/sliet.php';

@@ -69,13 +69,17 @@
         <li><a href="/ame/accommodation">Accommodation </a></li>
 
         <!--        <li><a href="/sliet-at-a-glance">SLIET at a Glance</a></li>-->
+        
+
+        <li><a href="/ame/glimpse-of-sliet">Glimpse of SLIET </a></li>
+        <li><a href="/ame/places-to-visit">Places to visit around</a></li>
+        <li><a href="/ame/locate-us">Locate us</a></li>
 
         <li><a href="/ame/contact-us">Contact us</a></li>
-        <div class="px-3 mt-3">
+        <li class="px-3 mt-3">
             <a href="#paper-submission" class="btn btn-outline-success text-white">Paper Submission</a>
             <!--            <a href="https://easychair.org/conferences/?conf=slietcon2019" class="btn btn-outline-success text-white">Paper Submission</a>-->
-        </div>
-        <li class="mt-5 border"><a href="/2019">Previous Conference</a></li>
+        </li>
     </ul>
 </div>
 <div class="modal fade" id="notice_ame_block" tabindex="-1" role="dialog" aria-hidden="true">

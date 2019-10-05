@@ -23,17 +23,17 @@
                 <a class="dropdown-item" href="/about/chemical-department">Department of Chemical Engineering</a>
                 <a class="dropdown-item" href="/about/computer-department">Department of Computer Science &
                     Engineering</a>
-<!--                <a class="dropdown-item" href="/about/electonics-communication-department">Department of Electronics and-->
-<!--                    Communication Engineering</a>-->
-<!--                <a class="dropdown-item" href="/about/electrical-instrumentation-department"> Department of Electrical-->
-<!--                    and Instrumentation Engineering</a>-->
+                <!--                <a class="dropdown-item" href="/about/electonics-communication-department">Department of Electronics and-->
+                <!--                    Communication Engineering</a>-->
+                <!--                <a class="dropdown-item" href="/about/electrical-instrumentation-department"> Department of Electrical-->
+                <!--                    and Instrumentation Engineering</a>-->
                 <a class="dropdown-item" href="/about/food-department">Department of Food Engineering and Technology</a>
                 <a class="dropdown-item" href="/about/mechanical-department">Department of Mechanical Engineering</a>
             </div>
         </li>
 
-<!--        <li><a href="/#about-slieticon">About SLIET-I-CON - 2020</a></li>-->
-<!--        <li><a href="/#sliet">About SLIET, Longowal</a></li>-->
+        <!--        <li><a href="/#about-slieticon">About SLIET-I-CON - 2020</a></li>-->
+        <!--        <li><a href="/#sliet">About SLIET, Longowal</a></li>-->
 
         <li>
             <a href="/AME" style="text-indent: initial; padding-left: 20px; line-height: 1.5" class="py-2">
@@ -53,6 +53,13 @@
         <li><a href="/important-dates">Important Dates</a></li>
 
         <li><a href="/venue">Venue</a></li>
+
+
+        <li>
+            <a href="https://docs.google.com/viewer?url=http://www.slietcon.org/assets/Flyer SLIET CON 2020RF.pdf&embedded=true" target="_blank">
+                Brochure & Flyer</a>
+        </li>
+
         <li><a href="/sponsorship">Sponsorship & Exhibition</a></li>
 
 

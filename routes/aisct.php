@@ -70,6 +70,18 @@ if (count($route) < 2) {
             require_once TEMPLATE_PATH . '/aisct/paper-submission.php';
             break;
 
+        case 'glimpse-of-sliet':
+            $title = TITLE . ' | Glimpse of SLIET';
+            require_once TEMPLATE_PATH . '/aisct/glimpse-of-sliet.php';
+            break;
+        case 'places-to-visit':
+            $title = TITLE . ' | Glimpse of SLIET';
+            require_once TEMPLATE_PATH . '/aisct/places-to-visit.php';
+            break;
+        case 'locate-us':
+            $title = TITLE . ' | Locate Us';
+            require_once TEMPLATE_PATH . '/aisct/locate-us.php';
+            break;
 
         case 'sliet-longowal':
 //        $title = TITLE.' | Conference Track';

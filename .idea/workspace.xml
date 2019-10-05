@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0cc1aa7-4c31-4174-8a08-834e5c13b875" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/Flyer SLIET CON 2020RF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/glimpse-of-sliet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/locate-us.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AISCT/places-to-visit.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/2019/about/chemical.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/2019/about/chemical.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/ACFBT/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/registration.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/ACFBT/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/sidebar-navigation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/about/chemical.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/about/chemical.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/about/computer.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/about/computer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/about/electoronics.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/about/electoronics.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/about/food.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/about/food.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/about/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/about/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/about/instrumentataion.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/about/instrumentataion.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/about/sliet.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/about/sliet.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/aisct.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/aisct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/ame.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/ame.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/sidebar-navigation.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/sidebar-navigation.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +42,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/view/about" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/view/ame" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -57,11 +51,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SLIET\SLIET-I-CON\view\ame" />
+      <recent name="E:\SLIET\SLIET-I-CON\view\aisct" />
+      <recent name="E:\SLIET\SLIET-I-CON\assets" />
       <recent name="E:\SLIET\SLIET-I-CON\view\about" />
       <recent name="E:\SLIET\SLIET-I-CON\view\acfbt" />
-      <recent name="E:\SLIET\SLIET-I-CON\view\common" />
-      <recent name="E:\SLIET\SLIET-I-CON\view" />
-      <recent name="E:\SLIET\SLIET-I-CON\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\SLIET\SLIET-I-CON\assets" />
@@ -119,7 +113,7 @@
       <workItem from="1567846941075" duration="2971000" />
       <workItem from="1568254655170" duration="995000" />
       <workItem from="1568442730460" duration="7729000" />
-      <workItem from="1570250125037" duration="18940000" />
+      <workItem from="1570250125037" duration="20572000" />
     </task>
     <servers />
   </component>
