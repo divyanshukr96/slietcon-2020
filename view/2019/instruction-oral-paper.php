@@ -46,7 +46,7 @@ require_once 'header.php';
                     <dd>
                         <strong>Please bring your printed poster with you to the SLIETCON-2019 on one sheet of poster paper.</strong>
                         <ol type="a">
-                            <li>TThe poster layout should be <strong>PORTRAIT and the</strong> dimensions of the poster
+                            <li>The poster layout should be <strong>PORTRAIT and the</strong> dimensions of the poster
                                 should not exceed 90
                                 cm wide x 1.2 m long (35.5 inches wide x 47 inches long)
                             </li>

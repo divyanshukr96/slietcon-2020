@@ -22,7 +22,7 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                     <table class="table table-responsive-md mt-4">
                         <thead>
                         <tr>
-                            <th scope="col">Track</th>
+<!--                            <th scope="col">Track</th>-->
                             <th scope="col">Contact Person</th>
                             <th scope="col">Email</th>
                             <th scope="col">Contact No.</th>
@@ -30,7 +30,7 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                         </thead>
                         <tbody>
                         <tr>
-                            <th scope="row" rowspan="2" class="align-middle">AME-2020</th>
+<!--                            <th scope="row" rowspan="2" class="align-middle">AME-2020</th>-->
                             <td>Dr. Jaspal Singh Gill</td>
                             <td><a href="mailto:ame2020@sliet.ac.in ">ame2020@sliet.ac.in </a></td>
                             <td>+91 9417270370, 1672253306(O)</td>

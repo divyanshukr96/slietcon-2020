@@ -21,22 +21,22 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                     <dl>
                         <dt>Registration and Full Length Paper Submission</dt>
                         <dd class="pt-2">
-                            Authors are invited to submit extended abstract (within 2 pages) and full length paper
+                            Authors are invited to submit  full length paper
                             through EasyChair Conference Management System
                         </dd>
-<!--                        <dd>-->
-<!--                            <a href="https://easychair.org/conferences/?conf=slietcon2019">Paper Submission link</a>-->
-<!--                        </dd>-->
+                        <dd>
+                            <a href="https://easychair.org/conferences/?conf=act2020">Paper Submission link</a>
+                        </dd>
                         <dd>It is mandatory for one of the authors to register and present the paper for inclusion in
                             the conference proceedings.
                         </dd>
-                        <dd> The paper template for extended abstract and full length papers (within 6-8 pages) may be
+                        <dd> The paper template for full length papers (within 6-8 pages) may be
                             downloaded from SLIETICON-2020 website.
                         </dd>
-<!--                        <dd>-->
-<!--                            <a href="/assets/Template%20for%20extended%20abstract%20(SLIETCON-19).docx">Download paper-->
-<!--                                template</a>-->
-<!--                        </dd>-->
+                        <!--                        <dd>-->
+                        <!--                            <a href="/assets/Template%20for%20extended%20abstract%20(SLIETCON-19).docx">Download paper-->
+                        <!--                                template</a>-->
+                        <!--                        </dd>-->
                     </dl>
                 </div>
                 <div class="col-12 text-center mt-4">
@@ -47,20 +47,19 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                     <dl>
                         <dt><h5 class="font-weight-bold">Mode of payment</h5></dt>
                         <dd class="text-justify">
-                            Registration fee along with registration form is to be sent in the form of DD drawn in
-                            favour of <strong>account name of respective track</strong> payable at Longowal. The
-                            participants can also deposit registration fee by bank transfer and send the online
-                            transaction details to the organizers. The Electronic bank transfer details are as under:
+                            The parcipants are requested to deposit registraon fee by only bank
+                            transfer and send the online transacon details to the organizers. The
+                            Electronic bank transfer details are as under:
                         </dd>
                         <dd class="col-12 col-lg-6 offset-lg-3 p-0">
                             <table class="table table-bordered table-sm">
                                 <tr>
                                     <td class="text-truncate">Account Name</td>
-                                    <td>SLIET-I-CON-2020</td>
+                                    <td>AME-2020</td>
                                 </tr>
                                 <tr>
                                     <td>Account No.</td>
-<!--                                    <td>3716400347</td>-->
+                                    <td>3770317464</td>
                                 </tr>
                                 <tr>
                                     <td>Bank Name</td>
@@ -122,7 +121,7 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                                     <th>After Dec. 31, 2019</th>
                                 </tr>
                                 <tr>
-                                    <td>Student/Postdoc</td>
+                                    <td>Student/Post Doc.</td>
                                     <td>Rs. 3000/-</td>
                                     <td>Rs. 3500/- </td>
                                     <td>$ 125</td>
@@ -142,42 +141,49 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                                     <td>$ 275</td>
                                     <td>$ 325</td>
                                 </tr>
+                                <tr>
+                                    <td>Accompanying person </td>
+                                    <td>Rs. 1500/-</td>
+                                    <td>Rs. 2000/- </td>
+                                    <td>$ 75</td>
+                                    <td>$ 100</td>
+                                </tr>
                             </table>
                         </dd>
 
-<!--                        <dd>-->
-<!--                            <strong>Note:- </strong>Maximum One article could be contributed on a single registration.-->
-<!--                            <br>-->
-<!--                            The registration fee includes registration kit, copy of conference proceedings, Breakfasts,-->
-<!--                            Lunches, Dinners and session tea.-->
-<!--                        </dd>-->
-<!---->
-<!--                        <dd>-->
-<!--                            <h6 class="font-weight-bold"><strong style="color: #d9523e;">*</strong>-->
-<!--                                Authors Registration Fee Includes</h6>-->
-<!--                            <ul>-->
-<!--                                <li>Participation in the technical program</li>-->
-<!--                                <li>Welcome tea (March, 1)</li>-->
-<!--                                <li>Lunch (March, 1-2)</li>-->
-<!--                                <li>Conference Dinner (March 1)</li>-->
-<!--                                <li>Breakfast (March 2)</li>-->
-<!--                                <li>Registration kit</li>-->
-<!--                                <li>Conference proceedings</li>-->
-<!--                                <li>Coffee/Tea breaks (March, 1-2)</li>-->
-<!--                            </ul>-->
-<!---->
-<!--                            <h6 class="font-weight-bold"><strong style="color: #d9523e;">*</strong>-->
-<!--                                Participants Registration Fee Includes</h6>-->
-<!--                            <ul>-->
-<!--                                <li> Participation in the technical program</li>-->
-<!--                                <li>Welcome tea (March, 1)</li>-->
-<!--                                <li>Lunch (March, 1-2)</li>-->
-<!--                                <li>Conference Dinner (March 1)</li>-->
-<!--                                <li>Breakfast (March 2)</li>-->
-<!--                                <li>Registration kit</li>-->
-<!--                                <li>Coffee/Tea breaks (March, 1-2)</li>-->
-<!--                            </ul>-->
-<!--                        </dd>-->
+                        <!--                        <dd>-->
+                        <!--                            <strong>Note:- </strong>Maximum One article could be contributed on a single registration.-->
+                        <!--                            <br>-->
+                        <!--                            The registration fee includes registration kit, copy of conference proceedings, Breakfasts,-->
+                        <!--                            Lunches, Dinners and session tea.-->
+                        <!--                        </dd>-->
+                        <!---->
+                        <!--                        <dd>-->
+                        <!--                            <h6 class="font-weight-bold"><strong style="color: #d9523e;">*</strong>-->
+                        <!--                                Authors Registration Fee Includes</h6>-->
+                        <!--                            <ul>-->
+                        <!--                                <li>Participation in the technical program</li>-->
+                        <!--                                <li>Welcome tea (March, 1)</li>-->
+                        <!--                                <li>Lunch (March, 1-2)</li>-->
+                        <!--                                <li>Conference Dinner (March 1)</li>-->
+                        <!--                                <li>Breakfast (March 2)</li>-->
+                        <!--                                <li>Registration kit</li>-->
+                        <!--                                <li>Conference proceedings</li>-->
+                        <!--                                <li>Coffee/Tea breaks (March, 1-2)</li>-->
+                        <!--                            </ul>-->
+                        <!---->
+                        <!--                            <h6 class="font-weight-bold"><strong style="color: #d9523e;">*</strong>-->
+                        <!--                                Participants Registration Fee Includes</h6>-->
+                        <!--                            <ul>-->
+                        <!--                                <li> Participation in the technical program</li>-->
+                        <!--                                <li>Welcome tea (March, 1)</li>-->
+                        <!--                                <li>Lunch (March, 1-2)</li>-->
+                        <!--                                <li>Conference Dinner (March 1)</li>-->
+                        <!--                                <li>Breakfast (March 2)</li>-->
+                        <!--                                <li>Registration kit</li>-->
+                        <!--                                <li>Coffee/Tea breaks (March, 1-2)</li>-->
+                        <!--                            </ul>-->
+                        <!--                        </dd>-->
 
                     </dl>
                 </div>

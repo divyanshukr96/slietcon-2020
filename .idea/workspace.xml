@@ -2,11 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0cc1aa7-4c31-4174-8a08-834e5c13b875" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/Paper format ACFBT-2020.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/committee/inter-national-advisory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/ACFBT/committee/national-advisory.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/aisct.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/aisct.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/ame.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/ame.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/acfbt.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/acfbt.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/2019/instruction-oral-paper.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/2019/instruction-oral-paper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ACFBT/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ACFBT/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ACFBT/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/sidebar-navigation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ACFBT/venue.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/venue.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/dates.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/dates.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/registration.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/AISCT/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/sidebar-navigation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/venue.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/venue.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/dates.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/dates.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/registration.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/AME/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/sidebar-navigation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/venue.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/venue.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/sidebar-navigation.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +54,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/view/ame" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -46,19 +62,19 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\SLIET\SLIET-I-CON\view\ame" />
-      <recent name="E:\SLIET\SLIET-I-CON\view\aisct" />
-      <recent name="E:\SLIET\SLIET-I-CON\assets" />
-      <recent name="E:\SLIET\SLIET-I-CON\view\about" />
-      <recent name="E:\SLIET\SLIET-I-CON\view\acfbt" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\SLIET\SLIET-I-CON\assets" />
       <recent name="E:\SLIET\SLIET-I-CON\view\2019" />
       <recent name="E:\SLIET\SLIET-I-CON\routes" />
       <recent name="E:\SLIET\SLIET-I-CON\view\temp" />
       <recent name="E:\SLIET\SLIET-I-CON\view\AISCT" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SLIET\SLIET-I-CON\assets" />
+      <recent name="E:\SLIET\SLIET-I-CON\view\ame" />
+      <recent name="E:\SLIET\SLIET-I-CON\view\aisct" />
+      <recent name="E:\SLIET\SLIET-I-CON\view\about" />
+      <recent name="E:\SLIET\SLIET-I-CON\view\acfbt" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -109,7 +125,8 @@
       <workItem from="1567846941075" duration="2971000" />
       <workItem from="1568254655170" duration="995000" />
       <workItem from="1568442730460" duration="7729000" />
-      <workItem from="1570250125037" duration="22349000" />
+      <workItem from="1570250125037" duration="24623000" />
+      <workItem from="1570528669105" duration="2554000" />
     </task>
     <servers />
   </component>
@@ -162,11 +179,6 @@
           </value>
         </entry>
       </map>
-    </option>
-    <option name="OPEN_TABS">
-      <set>
-        <option value="1" />
-      </set>
     </option>
   </component>
 </project>

@@ -99,12 +99,11 @@ if (count($route) < 2) {
             break;
 
 
-
-//        case 'instructions-for-oral-paper-poster-presentation':
-//        case 'instructions':
-//            $title = TITLE . ' | Instructions for Oral Paper and Poster Presentation';
-//            require_once TEMPLATE_PATH . '/acfbt/instruction-oral-paper.php';
-//            break;
+        case 'instructions-for-oral-paper-poster-presentation':
+        case 'instructions':
+            $title = TITLE . ' | Instructions for Oral Paper and Poster Presentation';
+            require_once TEMPLATE_PATH . '/acfbt/instruction-oral-paper.php';
+            break;
 
 
     }

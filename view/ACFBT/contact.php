@@ -22,7 +22,6 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
                     <table class="table table-responsive-md mt-4">
                         <thead>
                         <tr>
-                            <th scope="col">Track</th>
                             <th scope="col">Contact Person</th>
                             <th scope="col">Email</th>
                             <th scope="col">Contact No.</th>
@@ -30,9 +29,17 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
                         </thead>
                         <tbody>
 
-
                         <tr>
-                            <th scope="row" rowspan="2" class="align-middle">ACFBT-2020</th>
+                            <td>Dr. Parmjit Singh Panesar</td>
+                            <td><a href="mailto:acfbt2020@sliet.ac.in">acfbt2020@sliet.ac.in</a></td>
+                            <td>+91 9417494849, 1672253252(O)</td>
+                        </tr>
+                        <tr>
+                            <td>Dr. Avinash Thakur</td>
+                            <td><a href="mailto:acfbt2020@sliet.ac.in">acfbt2020@sliet.ac.in</a></td>
+                            <td>+91 9815081414, 1672253321(O)</td>
+                        </tr>
+                        <tr>
                             <td>Dr. Vikas Nanda</td>
                             <td><a href="mailto:acfbt2020@sliet.ac.in">acfbt2020@sliet.ac.in</a></td>
                             <td>+91 9815980054, 1672253254(O)</td>

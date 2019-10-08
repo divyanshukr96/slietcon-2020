@@ -71,7 +71,7 @@
         <li><a href="/locate-us">Locate us</a></li>
 
 
-        <li class="mt-3 border"><a href="/2019">Previous Conference</a></li>
+        <li class="mt-3 border mb-5"><a href="/2019">Previous Conference</a></li>
     </ul>
 </div>
 

@@ -20,8 +20,8 @@
                aria-haspopup="true" aria-expanded="false">About
             </a>
             <div class="dropdown-menu rounded-0" aria-labelledby="about-drop">
-                <a class="dropdown-item" href="/#sliet">SLIET, Longowal</a>
-                <a class="dropdown-item" href="/#about-slieticon">SLIET-I-CON - 2020</a>
+                <a class="dropdown-item" href="/aisct/#sliet">SLIET, Longowal</a>
+                <a class="dropdown-item" href="/aisct/#about-slieticon">SLIET-I-CON - 2020</a>
 <!--                <a class="dropdown-item" href="/about/chemical-department">Department of Chemical Engineering</a>-->
 <!--                <a class="dropdown-item" href="/about/computer-department">Department of Computer Science &-->
 <!--                    Engineering</a>-->
