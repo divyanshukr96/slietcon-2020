@@ -8,7 +8,8 @@
 
 ?>
 
-<section id="patron">
+<section class="position-relative">
+    <div id="patron" class="position-absolute" style="top: -70px; opacity: 0"></div>
     <div class="heading">
         <div class="container px-0">
             <h5 class="font-weight-bold p-3">Chief Patron / Patron</h5>

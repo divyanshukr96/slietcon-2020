@@ -49,10 +49,10 @@
             </a>
 
             <div class="dropdown-menu rounded-0" aria-labelledby="committee">
-                <a class="dropdown-item" href="/acfbt/committee#inter-national-advisory">Inter-National Advisory Council</a>
+                <a class="dropdown-item" href="/acfbt/committee">Inter-National Advisory Council</a>
                 <a class="dropdown-item" href="/acfbt/committee#national-advisory">National Advisory Council</a>
-                <a class="dropdown-item" href="/acfbt/committee">Patron / Co-Patron</a>
-                <a class="dropdown-item" href="/acfbt/committee#chairperson">Chairperson</a>
+                <a class="dropdown-item" href="/acfbt/committee#patron">Patron / Co-Patron</a>
+                <a class="dropdown-item" href="/acfbt/committee#organising-secretaries">Organising Secretaries</a>
                 <a class="dropdown-item" href="/acfbt/committee#coordinator">Coordinator</a>
             </div>
         </li>
