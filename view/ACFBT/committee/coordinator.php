@@ -17,7 +17,7 @@
     <div class="container">
         <div class="row text-center mt-md-3 mt-lg-4">
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/coordinator/charanjivsingh.jpg" class="img-thumbnail" alt="Coordinator">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Charanjiv Singh</h6>
@@ -25,7 +25,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/coordinator/cs-riar.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Charanjit Singh Riar</h6>
@@ -33,7 +33,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/coordinator/ghatak.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Himadri Roy Ghatak</h6>
@@ -41,7 +41,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/coordinator/kamlesh-kumari.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Kamlesh Kumari</h6>
@@ -49,7 +49,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/coordinator/pkumar.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Pradyuman Kumar</h6>
@@ -57,7 +57,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/coordinator/pushpa-jha.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Pushpa Jha</h6>

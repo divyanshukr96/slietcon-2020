@@ -17,7 +17,7 @@
     <div class="container">
         <div class="row text-center mt-md-3 mt-lg-4">
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/co-coordinator/sukhcharan-singh.jpg" class="img-thumbnail"
                      alt="Coordinator">
                 <div class="py-2">
@@ -26,7 +26,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/co-coordinator/navdeep-jindal.jpg" alt="Coordinator"
                      class="img-thumbnail">
                 <div class="py-2">
@@ -35,7 +35,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/co-coordinator/akhouri-sanjay.jpg" alt="Coordinator"
                      class="img-thumbnail">
                 <div class="py-2">
@@ -44,7 +44,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/co-coordinator/nikhil-prakash.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Nikhil Parkash Saxena</h6>
@@ -52,7 +52,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/co-coordinator/amit-rai.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Amit Rai</h6>
@@ -61,7 +61,7 @@
             </div>
 
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/co-coordinator/vinodmeena.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Mr. Vinod Kumar Meena</h6>
@@ -69,7 +69,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/co-coordinator/subita-bhagat.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold"> Ms. Subita Bhagat</h6>

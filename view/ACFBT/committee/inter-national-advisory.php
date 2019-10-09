@@ -15,7 +15,7 @@
     </div>
     <div class="container">
         <div class="row text-center">
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/01.jpg" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Miguel Jose Rodrigues Vilas-Boas</h6>
@@ -23,7 +23,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/02.jpg" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Christos N. Markides</h6>
@@ -33,7 +33,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/05.png" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Cristobal Noe Aguilar</h6>
@@ -43,7 +43,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/03.png" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Carol S.K. Lin</h6>
@@ -53,7 +53,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/04.png" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Maria K Kosseva</h6>
@@ -61,7 +61,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/17.png" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Arvind K.N. Nandedkar</h6>
@@ -70,7 +70,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/06.jpg" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Zainul Akmar Zakaria</h6>
@@ -80,7 +80,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/07.png" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Ahmad Zuhairi Abdullah</h6>
@@ -90,7 +90,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/08.png" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Rajeshwar Dayal Tyagi </h6>
@@ -101,7 +101,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/09.png" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Renu Wadhwa</h6>
@@ -111,7 +111,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/10.png" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Sunil Kaul</h6>
@@ -123,7 +123,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/18.jpg" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Anil Kumar Anal</h6>
@@ -132,7 +132,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/11.png" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Bhesh Bhandari</h6>
@@ -141,7 +141,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/16.jpg" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Harvinder S. Gill</h6>
@@ -151,7 +151,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/13.png" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Prof. Jiwan S. Sidhu</h6>
@@ -162,7 +162,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/14.png" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. M. Shafiur Rahman</h6>
@@ -171,7 +171,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/16.png" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Munish Puri</h6>
@@ -180,7 +180,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-2  mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/12.png" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Poonam Singh Nigam</h6>

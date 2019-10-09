@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e0cc1aa7-4c31-4174-8a08-834e5c13b875" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/ACFBT/committee.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/committee.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/ACFBT/committee/inter-national-advisory.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/committee/inter-national-advisory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/ACFBT/committee/patron.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/committee/patron.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/ACFBT/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/sidebar-navigation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/acfbt/committee/organising-secretaries.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/acfbt/committee/organising-secretaries.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +106,7 @@
       <workItem from="1568254655170" duration="995000" />
       <workItem from="1568442730460" duration="7729000" />
       <workItem from="1570250125037" duration="24623000" />
-      <workItem from="1570528669105" duration="8021000" />
+      <workItem from="1570528669105" duration="8830000" />
     </task>
     <servers />
   </component>

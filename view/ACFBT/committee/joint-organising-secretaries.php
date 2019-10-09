@@ -18,7 +18,7 @@
         <div class="row text-center mt-md-3 mt-lg-4">
 
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/member/gulsan_kumar_java.jpg" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Gulshan Kumar Jawa</h6>
@@ -26,7 +26,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/joint-secretaries/kamlesh-prasad.jpg" alt="ChairPerson"
                      class="img-thumbnail">
                 <div class="py-2">
@@ -35,7 +35,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/joint-secretaries/sandeep-mohan-ahuja.jpg" alt="ChairPerson"
                      class="img-thumbnail">
                 <div class="py-2">
@@ -44,7 +44,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/member/vikas_nanda.jpg" alt="ChairPerson"
                      class="img-thumbnail">
                 <div class="py-2">
