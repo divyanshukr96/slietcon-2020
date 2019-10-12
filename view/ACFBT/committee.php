@@ -8,6 +8,7 @@
 
 include_once TEMPLATE_PATH . '/acfbt/header.php';
 include_once TEMPLATE_PATH . '/acfbt/committee/inter-national-advisory.php';
+include_once TEMPLATE_PATH . '/acfbt/committee/national-advisory.php';
 include_once TEMPLATE_PATH . '/acfbt/committee/patron.php';
 include_once TEMPLATE_PATH . '/acfbt/committee/organising-secretaries.php';
 include_once TEMPLATE_PATH . '/acfbt/committee/joint-organising-secretaries.php';
