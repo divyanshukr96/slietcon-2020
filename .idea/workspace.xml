@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0cc1aa7-4c31-4174-8a08-834e5c13b875" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Atari Border.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Butterfly park.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Christ Church.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Garden of Fragrance.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Golden_Temple_India.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/India_Gate_at_Night-e1450397705487.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Jallianwala-Bagh_600-1280x720.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Kiala Forest.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Lotus Temple.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Monasteries.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Red Fort.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Ridge of Shimla.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Rose Garden.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Shimla-Kalka-Toy-Train.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/bangla-sahib-gurudwara-delhi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/dalhousie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/dr-ambedlar-national-memorial.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/rock-garden-chandigarh-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/rock-garden01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/places-to-visit/sukhna-lake.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slietmap.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/common/locate-us.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/common/locate-us.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/common/places-to-visit.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/common/places-to-visit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/D005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/D005.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/common/glimpse-of-sliet.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/common/glimpse-of-sliet.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +50,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/places-to-visit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/glimpse" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -87,11 +66,11 @@
       <recent name="E:\SLIET\SLIET-I-CON\view\AISCT" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SLIET\SLIET-I-CON\assets\images\glimpse" />
       <recent name="E:\SLIET\SLIET-I-CON\assets\images\places-to-visit" />
       <recent name="E:\SLIET\SLIET-I-CON\assets\images" />
       <recent name="E:\SLIET\SLIET-I-CON\assets\images\national" />
       <recent name="E:\SLIET\SLIET-I-CON\assets\images\inter-national" />
-      <recent name="E:\SLIET\SLIET-I-CON\assets\images\inter-advisory" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -143,7 +122,7 @@
       <workItem from="1568254655170" duration="995000" />
       <workItem from="1568442730460" duration="7729000" />
       <workItem from="1570250125037" duration="24623000" />
-      <workItem from="1570528669105" duration="19381000" />
+      <workItem from="1570528669105" duration="21544000" />
     </task>
     <servers />
   </component>
