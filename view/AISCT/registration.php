@@ -25,7 +25,7 @@ include_once TEMPLATE_PATH . '/aisct/header.php';
                             through EasyChair Conference Management System
                         </dd>
                         <dd>
-                            <a href="https://easychair.org/conferences/?conf=act2020">Paper Submission link</a>
+                            <a href="https://easychair.org/conferences/?conf=aisct2020">Paper Submission link</a>
                         </dd>
                         <dd>It is mandatory for one of the authors to register and present the paper for inclusion in
                             the conference proceedings.

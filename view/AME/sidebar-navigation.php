@@ -22,14 +22,14 @@
             <div class="dropdown-menu rounded-0" aria-labelledby="about-drop">
                 <a class="dropdown-item" href="/ame/#sliet">SLIET, Longowal</a>
                 <a class="dropdown-item" href="/ame/#about-slieticon">SLIET-I-CON - 2020</a>
-<!--                <a class="dropdown-item" href="/about/chemical-department">Department of Chemical Engineering</a>-->
-<!--                <a class="dropdown-item" href="/about/computer-department">Department of Computer Science &-->
-<!--                    Engineering</a>-->
-<!--                <a class="dropdown-item" href="/about/electonics-communication-department">Department of Electronics and-->
-<!--                    Communication Engineering</a>-->
-<!--                <a class="dropdown-item" href="/about/electrical-instrumentation-department"> Department of Electrical-->
-<!--                    and Instrumentation Engineering</a>-->
-<!--                <a class="dropdown-item" href="/about/food-department">Department of Food Engineering and Technology</a>-->
+                <!--                <a class="dropdown-item" href="/about/chemical-department">Department of Chemical Engineering</a>-->
+                <!--                <a class="dropdown-item" href="/about/computer-department">Department of Computer Science &-->
+                <!--                    Engineering</a>-->
+                <!--                <a class="dropdown-item" href="/about/electonics-communication-department">Department of Electronics and-->
+                <!--                    Communication Engineering</a>-->
+                <!--                <a class="dropdown-item" href="/about/electrical-instrumentation-department"> Department of Electrical-->
+                <!--                    and Instrumentation Engineering</a>-->
+                <!--                <a class="dropdown-item" href="/about/food-department">Department of Food Engineering and Technology</a>-->
             </div>
         </li>
 
@@ -69,7 +69,7 @@
         </li>
         <li><a href="/ame/publication">Publication</a></li>
         <li style="text-indent: 0;">
-            <a href="#/ame/instructions-for-oral-paper-poster-presentation"
+            <a href="/ame/instructions-for-oral-paper-poster-presentation"
                style="padding: 8px 20px; line-height: 1.5rem;">
                 Instructions for Oral Paper and Poster Presentation
             </a>
@@ -77,7 +77,7 @@
         <li><a href="/ame/accommodation">Accommodation </a></li>
 
         <!--        <li><a href="/sliet-at-a-glance">SLIET at a Glance</a></li>-->
-        
+
 
         <li><a href="/ame/glimpse-of-sliet">Glimpse of SLIET </a></li>
         <li><a href="/ame/places-to-visit">Places to visit around</a></li>
@@ -85,8 +85,9 @@
 
         <li><a href="/ame/contact-us">Contact us</a></li>
         <li class="px-3 mt-3">
-            <a href="#paper-submission" class="btn btn-outline-success text-white">Paper Submission</a>
-            <!--            <a href="https://easychair.org/conferences/?conf=slietcon2019" class="btn btn-outline-success text-white">Paper Submission</a>-->
+            <!--            <a href="#paper-submission" class="btn btn-outline-success text-white">Paper Submission</a>-->
+            <a href="https://easychair.org/conferences/?conf=ame20200" class="btn btn-outline-success text-white">Paper
+                Submission</a>
         </li>
     </ul>
 </div>

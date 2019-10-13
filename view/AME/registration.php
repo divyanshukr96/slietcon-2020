@@ -21,11 +21,11 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                     <dl>
                         <dt>Registration and Full Length Paper Submission</dt>
                         <dd class="pt-2">
-                            Authors are invited to submit  full length paper
+                            Authors are invited to submit full length paper
                             through EasyChair Conference Management System
                         </dd>
                         <dd>
-                            <a href="https://easychair.org/conferences/?conf=act2020">Paper Submission link</a>
+                            <a href="https://easychair.org/conferences/?conf=ame20200">Paper Submission link</a>
                         </dd>
                         <dd>It is mandatory for one of the authors to register and present the paper for inclusion in
                             the conference proceedings.
@@ -142,7 +142,7 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                                     <td>$ 325</td>
                                 </tr>
                                 <tr>
-                                    <td>Accompanying person </td>
+                                    <td>Accompanying person</td>
                                     <td>Rs. 1500/-</td>
                                     <td>Rs. 2000/- </td>
                                     <td>$ 75</td>
