@@ -35,16 +35,18 @@
         <!--        <li><a href="/#about-slieticon">About SLIET-I-CON - 2020</a></li>-->
         <!--        <li><a href="/#sliet">About SLIET, Longowal</a></li>-->
 
-        <li>
+        <li style="background-color: rgba(13,32,64, 0.6)">
             <a href="/AME" style="text-indent: initial; padding-left: 20px; line-height: 1.5" class="py-2">
                 International conference on “Advances in Mechanical Engineering” (AME- 2020)
             </a>
         </li>
-        <li><a href="/AISCT" style="text-indent: initial; padding-left: 20px; line-height: 1.5" class="py-2">
+        <li style="background-color: rgba(73,80,105, 0.6)">
+            <a href="/AISCT" style="text-indent: initial; padding-left: 20px; line-height: 1.5" class="py-2">
                 International Conference on “Advances in Soft Computing Techniques” (AISCT-2020)
             </a>
         </li>
-        <li><a href="/ACFBT" style="text-indent: initial; padding-left: 20px; line-height: 1.5" class="py-2">
+        <li style="background-color: rgba(37,149,94, 0.6)">
+            <a href="/ACFBT" style="text-indent: initial; padding-left: 20px; line-height: 1.5" class="py-2">
                 International Conference on “Advances in Chemical, Food and Bioprocess Technology” (ACFBT-2020)
             </a>
         </li>
@@ -57,7 +59,7 @@
 
         <li>
             <a href="https://docs.google.com/viewer?url=http://www.slietcon.org/assets/Flyer SLIET CON 2020RF.pdf&embedded=true" target="_blank">
-                Brochure & Flyer</a>
+                Flyer SLIETICON - 2020</a>
         </li>
 
         <li><a href="/sponsorship">Sponsorship & Exhibition</a></li>

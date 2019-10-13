@@ -61,7 +61,7 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <a class="navbar-brand mr-auto" href="/ACFBT">
-                <span class="large">International Conference on “Advances in Chemical, Food and Bio-process Technology” (ACFBT - 2020)</span>
+                <span class="large">International Conference on “Advances in Chemical, Food and Bioprocess Technology” (ACFBT - 2020)</span>
                 <span class="small"
                       title="International Conference on “Advances in Chemical, Food and Bio-process Technology” (ACFBT - 2020)">ACFBT - 2020</span>
             </a>

@@ -21,7 +21,7 @@
                 <img src="../../assets/images/coordinator/charanjivsingh.jpg" class="img-thumbnail" alt="Coordinator">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Charanjiv Singh</h6>
-                    <h6>AsP, FET</h6>
+                    <h6>Prof., FET</h6>
                 </div>
             </div>
 

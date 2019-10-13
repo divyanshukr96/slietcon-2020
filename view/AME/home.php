@@ -101,8 +101,8 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                 Engineering, Food Engineering and Technology, Chemical Engineering, Computer Science and Engineering,
                 and Electrical and Instrumentation Engineering. Three International Conferences under the umbrella of
                 SLIET-I-CON-2020 will be organised. the Department of Mechanical Engineering is the organizer of
-                International conference on “Advances in Mechanical Engineering (AME- 2020)” under Track-I. An
-                International Conference on “Advances in Soft Computing Techniques (AISCT2020)” (Track II) will be
+                International conference on “Advances in Mechanical Engineering (AME-2020)” under Track-I. An
+                International Conference on “Advances in Soft Computing Techniques (AISCT-2020)” (Track II) will be
                 jointly organized by Department of Electrical and Instrumentation Engineering, Computer Science and
                 Engineering, Electronics and Communication Engineering. Department of Chemical Engineering and
                 Department of Food Engineering and Technology will jointly host the International Conference on

@@ -31,7 +31,7 @@
                      class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Avinash Thakur</h6>
-                    <h6>Asp, CHE </h6>
+                    <h6>Prof., CHE </h6>
                 </div>
             </div>
 

@@ -5,8 +5,7 @@
         </div>
     </div>
     <div class="container pt-4">
-        <div class="row">
-
+        <div class="row justify-content-center">
 
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                 <img src="../../assets/images/glimpse/0017.jpg" alt="" width="100%">
@@ -38,9 +37,9 @@
                 <img src="../../assets/images/glimpse/96.jpg" alt="" width="100%">
             </div>
 
-<!--            <div class="col-12 col-sm-6 col-md-4 col-lg-3">-->
-<!--                <img src="../../assets/images/glimpse/" alt="" width="100%">-->
-<!--            </div>-->
+            <!--            <div class="col-12 col-sm-6 col-md-4 col-lg-3">-->
+            <!--                <img src="../../assets/images/glimpse/" alt="" width="100%">-->
+            <!--            </div>-->
 
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                 <img src="../../assets/images/glimpse/54254955_574541976363029_6237239614210310144_n.jpg" alt=""
@@ -57,9 +56,9 @@
                      width="100%">
             </div>
 
-<!--            <div class="col-12 col-sm-6 col-md-4 col-lg-3">-->
-<!--                <img src="../../assets/images/glimpse/" alt="" width="100%">-->
-<!--            </div>-->
+            <!--            <div class="col-12 col-sm-6 col-md-4 col-lg-3">-->
+            <!--                <img src="../../assets/images/glimpse/" alt="" width="100%">-->
+            <!--            </div>-->
 
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
                 <img src="../../assets/images/glimpse/57049048_589158574901369_8544953682976833536_n.jpg" alt=""

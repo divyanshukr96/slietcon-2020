@@ -30,7 +30,7 @@ include_once TEMPLATE_PATH . '/aisct/header.php';
 
             <dl class="position-relative">
                 <div id="NHFPTN-2019" class="position-absolute" style="top: -75px; opacity: 0"></div>
-                <dt>Track II: International Conference on “Advances in Soft Computing Techniques” (AISCT-2020)</dt>
+                <dt>International Conference on “Advances in Soft Computing Techniques” (AISCT-2020)</dt>
                 <dd class="mt-2 text-justify">
                     <ul>
 

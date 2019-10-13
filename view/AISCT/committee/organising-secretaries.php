@@ -17,7 +17,7 @@
     <div class="container">
         <div class="row text-center mt-md-3 mt-lg-4">
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/secretaries/sanjay_marwaha.jpg" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Sanjay Marwaha</h6>
@@ -25,7 +25,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/secretaries/anup_marwaha.jpg" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Anupma Marwaha</h6>
@@ -33,15 +33,15 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/secretaries/major_singh.jpg" alt="ChairPerson" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Major Singh</h6>
-                    <h6>AsP, CSE</h6>
+                    <h6>Prof., CSE</h6>
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/secretaries/Krishan-kumar.png" alt="ChairPerson" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Krishan Kumar</h6>

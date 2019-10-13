@@ -69,7 +69,7 @@
             </div>
         </li>
 
-<!--        <li><a href="/acfbt/brochure">Conference Brochure</a></li>-->
+        <!--        <li><a href="/acfbt/brochure">Conference Brochure</a></li>-->
         <li><a href="/acfbt/publication">Publication</a></li>
         <li style="text-indent: 0;">
             <a href="/acfbt/instructions-for-oral-paper-poster-presentation"
@@ -86,8 +86,10 @@
         <li><a href="/acfbt/locate-us">Locate us</a></li>
         <li><a href="/acfbt/contact-us">Contact us</a></li>
         <li class="px-3 mt-3">
-            <a href="#paper-submission" class="btn btn-outline-success text-white">Paper Submission</a>
-            <!--            <a href="https://easychair.org/conferences/?conf=slietcon2019" class="btn btn-outline-success text-white">Paper Submission</a>-->
+            <!--            <a href="#paper-submission" class="btn btn-outline-success text-white">Paper Submission</a>-->
+            <a href="https://easychair.org/conferences/?conf=acfbt2020" class="btn btn-outline-success text-white">
+                Paper Submission
+            </a>
         </li>
     </ul>
 </div>

@@ -3,8 +3,30 @@
   <component name="ChangeListManager">
     <list default="true" id="e0cc1aa7-4c31-4174-8a08-834e5c13b875" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/D005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/D005.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Flyer ACFBT 2020RF.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Flyer ACFBT 2020RF.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Flyer SLIET CON 2020RF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ACFBT/committee/coordinator.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/committee/coordinator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ACFBT/committee/organising-secretaries.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/committee/organising-secretaries.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ACFBT/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ACFBT/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ACFBT/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/sidebar-navigation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/call-for-paper.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/call-for-paper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/committee/co-coordinator.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/committee/co-coordinator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/committee/coordinator.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/committee/coordinator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/committee/joint-organising-secretaries.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/committee/joint-organising-secretaries.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/committee/organising-secretaries.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/committee/organising-secretaries.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/committee/patron.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/committee/patron.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/call-for-paper.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/call-for-paper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/committee/co-coordinator.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/committee/co-coordinator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/committee/coordinator.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/committee/coordinator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/committee/joint-organising-secretaries.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/committee/joint-organising-secretaries.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/committee/organising-secretaries.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/committee/organising-secretaries.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/committee/patron.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/committee/patron.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/home.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/common/glimpse-of-sliet.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/common/glimpse-of-sliet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/sidebar-navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/sidebar-navigation.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +72,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/glimpse" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -58,19 +80,19 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SLIET\SLIET-I-CON\assets" />
+      <recent name="E:\SLIET\SLIET-I-CON\assets\images\glimpse" />
+      <recent name="E:\SLIET\SLIET-I-CON\assets\images\places-to-visit" />
+      <recent name="E:\SLIET\SLIET-I-CON\assets\images" />
+      <recent name="E:\SLIET\SLIET-I-CON\assets\images\national" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\SLIET\SLIET-I-CON\assets" />
       <recent name="E:\SLIET\SLIET-I-CON\view\2019" />
       <recent name="E:\SLIET\SLIET-I-CON\routes" />
       <recent name="E:\SLIET\SLIET-I-CON\view\temp" />
       <recent name="E:\SLIET\SLIET-I-CON\view\AISCT" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\SLIET\SLIET-I-CON\assets\images\glimpse" />
-      <recent name="E:\SLIET\SLIET-I-CON\assets\images\places-to-visit" />
-      <recent name="E:\SLIET\SLIET-I-CON\assets\images" />
-      <recent name="E:\SLIET\SLIET-I-CON\assets\images\national" />
-      <recent name="E:\SLIET\SLIET-I-CON\assets\images\inter-national" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -122,7 +144,8 @@
       <workItem from="1568254655170" duration="995000" />
       <workItem from="1568442730460" duration="7729000" />
       <workItem from="1570250125037" duration="24623000" />
-      <workItem from="1570528669105" duration="21544000" />
+      <workItem from="1570528669105" duration="21882000" />
+      <workItem from="1570964221707" duration="2316000" />
     </task>
     <servers />
   </component>

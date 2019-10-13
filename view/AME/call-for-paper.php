@@ -30,7 +30,7 @@ include_once TEMPLATE_PATH . '/ame/header.php';
 
             <dl class="position-relative">
                 <div id="NHFPTN-2019" class="position-absolute" style="top: -75px; opacity: 0"></div>
-                <dt>Track I: International conference on “Advances in Mechanical Engineering” (AME- 2020)</dt>
+                <dt>International conference on “Advances in Mechanical Engineering” (AME-2020)</dt>
                 <dd class="mt-2">
                     <ul>
                         <li> Additive Manufacturing, Reverse Engineering</li>

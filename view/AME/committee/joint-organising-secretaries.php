@@ -17,7 +17,7 @@
     <div class="container">
         <div class="row text-center mt-md-3 mt-lg-4">
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/joint-secretaries/kulwant-singh.jpg" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Kulwant Singh</h6>
@@ -25,7 +25,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/joint-secretaries/dr-rk-saxemna.jpg" alt="ChairPerson"
                      class="img-thumbnail">
                 <div class="py-2">
@@ -34,7 +34,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/joint-secretaries/amrik-singh.jpg" alt="ChairPerson"
                      class="img-thumbnail">
                 <div class="py-2">
@@ -43,16 +43,16 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/joint-secretaries/raj-kumar-yadav.jpg" alt="ChairPerson"
                      class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Raj Kumar Yadav</h6>
-                    <h6>AsP, ME </h6>
+                    <h6>Prof., ME </h6>
                 </div>
             </div>
 
-            <div class="col-12 col-md-4 col-lg-3 my-3 mx-auto">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/joint-secretaries/anil-kumar-singla.jpg" alt="ChairPerson"
                      class="img-thumbnail">
                 <div class="py-2">
