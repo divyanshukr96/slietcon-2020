@@ -93,7 +93,7 @@
             <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/08.png" class="img-thumbnail" alt="">
                 <div class="py-2">
-                    <h6 class="font-weight-bold">Rajeshwar Dayal Tyagi </h6>
+                    <h6 class="font-weight-bold">Dr. Rajeshwar Dayal Tyagi </h6>
                     <h6 class="small">Professor
                         Water Center Environment Center
                         490, rue de la Couronne, Quebec City, Quebec
@@ -154,8 +154,8 @@
             <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/13.png" class="img-thumbnail" alt="">
                 <div class="py-2">
-                    <h6 class="font-weight-bold">Prof. Jiwan S. Sidhu</h6>
-                    <h6 class="small">Director, Masters' Program in Food & Environmental
+                    <h6 class="font-weight-bold">Dr. Jiwan S. Sidhu</h6>
+                    <h6 class="small">Prof. & Director, Masters' Program in Food & Environmental
                         Toxicology, and Director, Masters' Program in Food Quality
                         & Safety, Dept. of Food Science and Nutrion
                         College of Life Sciences, Kuwait University, Kuwait</h6>
@@ -183,7 +183,7 @@
             <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/inter-national/12.png" class="img-thumbnail" alt="">
                 <div class="py-2">
-                    <h6 class="font-weight-bold">Poonam Singh Nigam</h6>
+                    <h6 class="font-weight-bold">Dr. Poonam Singh Nigam</h6>
                     <h6 class="small">Ulster University United Kingdom</h6>
                 </div>
             </div>
