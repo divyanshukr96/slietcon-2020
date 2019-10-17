@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="e0cc1aa7-4c31-4174-8a08-834e5c13b875" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/aisct.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/aisct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ACFBT-2020 Catalog 001RF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Flyer ACFBT 2020RF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Flyer SLIET CON 2020RF.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ACFBT/committee/patron.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/committee/patron.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/committee/patron.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/committee/patron.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/committee/patron.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/committee/patron.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ame/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ame/registration.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +55,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/view/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -57,19 +63,19 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\SLIET\SLIET-I-CON\view\common" />
-      <recent name="E:\SLIET\SLIET-I-CON\assets" />
-      <recent name="E:\SLIET\SLIET-I-CON\assets\images\glimpse" />
-      <recent name="E:\SLIET\SLIET-I-CON\assets\images\places-to-visit" />
-      <recent name="E:\SLIET\SLIET-I-CON\assets\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\SLIET\SLIET-I-CON\assets" />
       <recent name="E:\SLIET\SLIET-I-CON\view\2019" />
       <recent name="E:\SLIET\SLIET-I-CON\routes" />
       <recent name="E:\SLIET\SLIET-I-CON\view\temp" />
       <recent name="E:\SLIET\SLIET-I-CON\view\AISCT" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SLIET\SLIET-I-CON\assets" />
+      <recent name="E:\SLIET\SLIET-I-CON\view\common" />
+      <recent name="E:\SLIET\SLIET-I-CON\assets\images\glimpse" />
+      <recent name="E:\SLIET\SLIET-I-CON\assets\images\places-to-visit" />
+      <recent name="E:\SLIET\SLIET-I-CON\assets\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -122,7 +128,9 @@
       <workItem from="1568442730460" duration="7729000" />
       <workItem from="1570250125037" duration="24623000" />
       <workItem from="1570528669105" duration="21882000" />
-      <workItem from="1570964221707" duration="5944000" />
+      <workItem from="1570964221707" duration="6100000" />
+      <workItem from="1571104500044" duration="205000" />
+      <workItem from="1571322958265" duration="515000" />
     </task>
     <servers />
   </component>

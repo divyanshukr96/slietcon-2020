@@ -21,7 +21,7 @@
                 <img src="../../assets/images/jr_singhal.png" alt="Chief Patron" class="img-thumbnail">
                 <div class="py-2">
                     <h5 class="font-weight-bold">Chief Patron</h5>
-                    <h6>Sh. J.R. Singal, Chairman, BOM, SLIET </h6>
+                    <h6>Sh. Jagdish Rai Singal, Chairman, BOM, SLIET </h6>
                 </div>
             </div>
             <div class="col-6 col-sm-4 col-md-3 col-lg-2">

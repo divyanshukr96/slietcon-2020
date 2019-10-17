@@ -78,7 +78,7 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
                                 </tr>
                                 <tr>
                                     <td>MICR Code</td>
-                                    <td>148016907</td>
+                                    <td>148016003</td>
                                 </tr>
                                 <tr>
                                     <td>Branch Code</td>
