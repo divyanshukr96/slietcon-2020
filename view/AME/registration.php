@@ -33,10 +33,9 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                         <dd> The paper template for full length papers (within 6-8 pages) may be
                             downloaded from SLIETICON-2020 website.
                         </dd>
-                        <!--                        <dd>-->
-                        <!--                            <a href="/assets/Template%20for%20extended%20abstract%20(SLIETCON-19).docx">Download paper-->
-                        <!--                                template</a>-->
-                        <!--                        </dd>-->
+                        <dd>
+                            <a href="/assets/Paper format AME-2020.docx">Download paper template</a>
+                        </dd>
                     </dl>
                 </div>
                 <div class="col-12 text-center mt-4">
