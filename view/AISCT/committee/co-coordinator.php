@@ -34,7 +34,7 @@
             </div>
 
             <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
-                <img src="../../assets/images/no-image.png" alt="Coordinator" class="img-thumbnail">
+                <img src="../../assets/images/co-coordinator/vipul_kumar.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Mr. Vipul Kumar</h6>
                     <h6>AP, ECE</h6>
