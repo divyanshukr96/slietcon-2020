@@ -36,7 +36,7 @@
             <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/coordinator/vivek-harsh.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
-                    <h6 class="font-weight-bold">Dr. Vivek Kumar</h6>
+                    <h6 class="font-weight-bold">Vivek Kumar</h6>
                     <h6>AP, ECE</h6>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                 <img src="../../assets/images/coordinator/raj-kumar-garg.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Dr. Raj Kumar Garg</h6>
-                    <h6>AP, EIE </h6>
+                    <h6>AsP, EIE </h6>
                 </div>
             </div>
 
@@ -60,7 +60,7 @@
             <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/coordinator/Kuldeep-Singh.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
-                    <h6 class="font-weight-bold">Dr. Kuldeep Singh</h6>
+                    <h6 class="font-weight-bold">Kuldeep Singh</h6>
                     <h6>A.P., ECE </h6>
                 </div>
             </div>
@@ -68,7 +68,7 @@
             <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/coordinator/charanjeev-gupta.jpg" class="img-thumbnail" alt="Coordinator">
                 <div class="py-2">
-                    <h6 class="font-weight-bold">Dr. Charanjeev Gupta</h6>
+                    <h6 class="font-weight-bold">Charanjeev Gupta</h6>
                     <h6>AsP, EIE</h6>
                 </div>
             </div>
@@ -85,7 +85,7 @@
             <div class="col-6 col-sm-4 col-md-3 col-lg-2 mx-auto">
                 <img src="../../assets/images/coordinator/sarbjeet-singh.jpg" alt="Coordinator" class="img-thumbnail">
                 <div class="py-2">
-                    <h6 class="font-weight-bold">Dr. Sarbjit Singh</h6>
+                    <h6 class="font-weight-bold">Sarbjit Singh</h6>
                     <h6>AP, ECE </h6>
                 </div>
             </div>
