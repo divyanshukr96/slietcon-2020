@@ -6,7 +6,7 @@
  * Time: 13:07
  */
 
-include_once TEMPLATE_PATH . '/acfbt/header.php';
+include_once TEMPLATE_PATH . '/ame/header.php';
 ?>
 
     <section class="mh-auto">
