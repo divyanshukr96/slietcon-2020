@@ -35,6 +35,16 @@
 
 
             <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
+                <img src="../../assets/images/national/ashok-panday.jpg" class="img-thumbnail" alt="">
+                <div class="py-2">
+                    <h6 class="font-weight-bold">Prof. Ashok Pandey</h6>
+                    <h6 class="small">Distinguished Scientist Centre for Innovation and Translational Research
+                        CSIR-Indian Institute of Toxicology Research Lucknow</h6>
+                </div>
+            </div>
+
+
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
                 <img src="../../assets/images/national/03.png" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold">Prof. Rajender Singh Sangwan </h6>
@@ -225,10 +235,11 @@
 
 
             <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
-                <img src="../../assets/images/national/24.png" class="img-thumbnail" alt="">
+                <img src="../../assets/images/national/nitin.jpg" class="img-thumbnail" alt="">
                 <div class="py-2">
-                    <h6 class="font-weight-bold">Er. Yogesh Tyagi </h6>
-                    <h6 class="small">Plant Manager, Pepsico India Limited, Channo </h6>
+                    <h6 class="font-weight-bold">Dr. Nitin Labhasetwar</h6>
+                    <h6 class="small">Senior Principal Scientist & Head Energy & Resource Management Division,
+                        CSIR-NEERI</h6>
                 </div>
             </div>
 
@@ -298,7 +309,7 @@
 
 
             <div class="col-6 col-sm-4 col-md-3 col-lg-2  mx-auto">
-                <img src="../../assets/images/national/no-image.png" class="img-thumbnail" alt="">
+                <img src="../../assets/images/national/ak-srivastava.jpg" class="img-thumbnail" alt="">
                 <div class="py-2">
                     <h6 class="font-weight-bold"> Dr. A. K. Srivastava </h6>
                     <h6 class="small"> Member, ASRB New Delhi </h6>

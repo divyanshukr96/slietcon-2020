@@ -44,7 +44,6 @@ include_once TEMPLATE_PATH . '/aisct/header.php';
                         <li> Deep Learning</li>
                         <li> Data Analytics</li>
                         <li> Swarm Intelligence</li>
-                        <li> Fuzzy Systems</li>
                         <li> Fuzzy Logic Systems</li>
                         <li> Neural Networks</li>
                         <li> Multi-Agent Systems</li>
