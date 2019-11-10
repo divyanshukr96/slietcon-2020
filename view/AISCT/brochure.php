@@ -16,10 +16,10 @@ include_once TEMPLATE_PATH . '/aisct/header.php';
             </div>
         </div>
         <div class="container">
-            <a href="https://docs.google.com/viewer?url=http://www.slietcon.org/assets/SLIET-I-CON-2020 Brouchure.pdf&embedded=true"
+            <a href="https://docs.google.com/viewer?url=http://www.slietcon.org/assets/Flyer AISCT-2020.pdf&embedded=true"
                class="btn btn-info mb-2"><i class="fas fa-external-link-alt"></i> Open in new Tab
             </a>
-            <iframe src="https://docs.google.com/viewer?url=http://www.slietcon.org/assets/SLIET-I-CON-2020 Brouchure.pdf&embedded=true"
+            <iframe src="https://docs.google.com/viewer?url=http://www.slietcon.org/assets/Flyer AISCT-2020.pdf&embedded=true"
                     frameborder="0" height="700px" width="100%"></iframe>
         </div>
     </section>

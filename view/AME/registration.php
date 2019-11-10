@@ -36,6 +36,9 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                         <dd>
                             <a href="/assets/Paper format AME-2020.docx">Download paper template</a>
                         </dd>
+                        <dd>
+                            <a href="/assets/Copyright Transfer Agreement AME.pdf">Download Copyright Transfer Agreement</a>
+                        </dd>
                     </dl>
                 </div>
                 <div class="col-12 text-center mt-4">

@@ -7,10 +7,13 @@
  */
 
 require_once TEMPLATE_PATH . '/acfbt/header.php';
+
+
+require_once TEMPLATE_PATH . '/common/accommodation.php';
 ?>
 
 
-    <section class="mh-auto">
+    <section class="mh-auto d-none">
         <div class="heading">
             <div class="container">
                 <h5 class="font-weight-bold py-3">Accommodation</h5>

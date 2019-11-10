@@ -36,6 +36,9 @@ include_once TEMPLATE_PATH . '/aisct/header.php';
                         <dd>
                             <a href="/assets/Paper format AISCT-2020.docx">Download paper template</a>
                         </dd>
+                        <dd>
+                            <a href="/assets/Copyright Transfer Agreement AISCT.pdf">Download Copyright Transfer Agreement</a>
+                        </dd>
                     </dl>
                 </div>
                 <div class="col-12 text-center mt-4">

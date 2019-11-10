@@ -17,7 +17,12 @@ require_once TEMPLATE_PATH . '/aisct/header.php';
             </div>
         </div>
         <div class="container my-3">
-            <h4 class="text-warning">To be announced . . .</h4>
+            <h5>
+                Selected peer reviewed quality papers presented in the conference shall be published in reputed
+                journal/books in respective subject domain. All other accepted and presented manuscript will be
+                published in the conference proceedings.
+            </h5>
+            <h5 style="font-weight: bold" class="mt-3"> * Name of Journals will be published soon.</h5>
         </div>
     </section>
 

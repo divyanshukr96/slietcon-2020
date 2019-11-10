@@ -11,7 +11,7 @@ include_once TEMPLATE_PATH . '/aisct/header.php';
 ?>
 
     <section class="mh-auto">
-        <div class="heading" >
+        <div class="heading">
             <div class="container px-0">
                 <h5 class="font-weight-bold p-3">Call for Paper</h5>
             </div>
@@ -23,8 +23,8 @@ include_once TEMPLATE_PATH . '/aisct/header.php';
                     of SLIET-I-CON-2020 and the following broad themes will be covered with interaction through plenary
                     sessions, invited lectures, paper presentations and poster sessions. There will be three best paper
                     awards each in oral and poster presentations in each session. Authors are invited to submit their
-                    original, unpublished and quality research papers in the areas (but not limited to) of new
-                    developments. The following topics, but not limited to are to be covered:
+                    original, unpublished and quality research papers in the areas of new developments. The following
+                    topics, but not limited to are to be covered:
                 </dd>
             </dl>
 
@@ -53,32 +53,56 @@ include_once TEMPLATE_PATH . '/aisct/header.php';
                         <li> Statistical Data Analysis</li>
                         <li> Complex Systems</li>
 
-                        <li> Hardware implementations of these soft computing techniques Applications of soft computing
-                            to testing and diagnostics of medical data, business and financial systems, information
-                            systems, health-care systems, intelligent systems, control systems, prediction and
-                            forecasting, robotics, reliability analysis, cost-benefit analysis, biomedical & biometric
-                            analysis, web and text mining, image and signal processing, grid computing, smart cities and
-                            scheduling, wireless sensor networks, bio-informatics, systems biology, solar energy, internet
-                            and wireless security, mobile computing, IoT, natural language processing, intelligent
-                            transportation etc.
+
+                        <li>
+                            Applications of soft computing techniques to testing and
+                            diagnostics of medical data, business and financial systems,
+                            information systems, health-care systems, intelligent
+                            systems, control systems, complex electromagnetics
+                            problems, nanotechnology, material engineering,
+                            prediction and forecasting, robotics, reliability analysis,
+                            cost-benefit analysis, web and text mining, image and
+                            signal processing, grid computing, smart cities and
+                            scheduling, wireless sensor networks, computational
+                            biology and bioinformatics, solar energy, internet and
+                            wireless security, mobile computing, IoT, natural language
+                            processing, intelligent transportation etc.
+                            <br>
+                            Application of computing techniques in the area(s) of
+                            Power Systems, Electrical Machines and Drives, Energy
+                            Systems, Control Systems, Biomedical Engineering,
+                            Sensors and transducers, Intelligent Instrumentation etc.
                         </li>
+<!---->
+<!--                        <li> Hardware implementations of these soft computing techniques Applications of soft computing-->
+<!--                            to testing and diagnostics of medical data, business and financial systems, information-->
+<!--                            systems, health-care systems, intelligent systems, control systems, prediction and-->
+<!--                            forecasting, robotics, reliability analysis, cost-benefit analysis, biomedical & biometric-->
+<!--                            analysis, web and text mining, image and signal processing, grid computing, smart cities and-->
+<!--                            scheduling, wireless sensor networks, bio-informatics, systems biology, solar energy,-->
+<!--                            internet-->
+<!--                            and wireless security, mobile computing, IoT, natural language processing, intelligent-->
+<!--                            transportation etc.-->
+<!--                        </li>-->
 
 
                     </ul>
                 </dd>
             </dl>
 
-<!--            <dl>-->
-<!--                <dt>Paper format</dt>-->
-<!--                <dd>Research paper are to be submitted in the standard IEEE format.</dd>-->
-<!--            </dl>-->
-<!--            <dl>-->
-<!--                <dt>Paper submission guidelines</dt>-->
-<!--                <dd>The research papers will only be accepted through easy chair.<br>-->
-<!--                    <a href="https://easychair.org/conferences/?conf=slietcon2019" class="btn btn-link">Paper Submit-->
-<!--                        here</a>-->
-<!--                </dd>-->
-<!--            </dl>-->
+            <!--            <dl>-->
+            <!--                <dt>Paper format</dt>-->
+            <!--                <dd>Research paper are to be submitted in the standard IEEE format.</dd>-->
+            <!--            </dl>-->
+            <!--            <dl>-->
+            <dl>
+                <dt>Paper submission guidelines</dt>
+                <dd>The full length papers will only be accepted through easy chair.<br>
+                    <a href="https://easychair.org/conferences/?conf=aisct2020" class="btn btn-link">
+                        Paper Submit here
+                    </a>
+                </dd>
+            </dl>
         </div>
     </section>
 

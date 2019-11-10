@@ -6,7 +6,7 @@
  * Time: 13:07
  */
 
-include_once TEMPLATE_PATH . '/acfbt/header.php';
+include_once TEMPLATE_PATH . '/aisct/header.php';
 ?>
 
     <section class="mh-auto">
@@ -16,11 +16,11 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
             </div>
         </div>
         <div class="container">
-<!--            <a href="../../assets/Flyer ACFBT 2020RF.pdf" class="btn btn-info mb-2">-->
-<!--                <i class="fas fa-arrow-down"></i> Download-->
-<!--            </a>-->
-<!--            <iframe src="https://docs.google.com/viewer?url=http://www.slietcon.org/assets/Flyer ACFBT 2020RF.pdf&embedded=true"-->
-<!--                    frameborder="0" height="700px" width="100%"></iframe>-->
+            <a href="../../assets/Flyer AISCT-2020.pdf" class="btn btn-info mb-2">
+                <i class="fas fa-arrow-down"></i> Download
+            </a>
+            <iframe src="https://docs.google.com/viewer?url=http://www.slietcon.org/assets/Flyer AISCT-2020.pdf&embedded=true"
+                    frameborder="0" height="700px" width="100%"></iframe>
         </div>
     </section>
 

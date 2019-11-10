@@ -6,7 +6,13 @@
     </div>
 
     <div class="container my-3">
-        <h4 class="text-warning">To be announced . . .</h4>
+
+        Registration fee also covers accommodation charges for students delegates (Indian & Foreign) inside the
+        institute campus on first come first service basis subject to availability on prior information (at least 15
+        days before the commencement of conference). However limited accommodation is available for other delegates at
+        SLIET, campus on payment basis, Suitable hotel accommodation on nominal rates is available at the conference
+        website.
+
     </div>
 
     <div class="container my-3 d-none">

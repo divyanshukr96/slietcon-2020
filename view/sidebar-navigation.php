@@ -58,7 +58,11 @@
 
 
         <li>
-            <a href="https://docs.google.com/viewer?url=http://www.slietcon.org/assets/Flyer SLIET CON 2020RF.pdf&embedded=true" target="_blank">
+            <a href="http://www.slietcon.org/assets/Final SLIET-I-CON-2020 (Common).pdf" target="_blank">
+                Brochure SLIETICON - 2020</a>
+        </li>
+        <li>
+            <a href="http://www.slietcon.org/assets/Flyer SLIET CON 2020RF.pdf" target="_blank">
                 Flyer SLIETICON - 2020</a>
         </li>
 

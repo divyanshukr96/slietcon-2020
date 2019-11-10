@@ -49,9 +49,11 @@
             </a>
 
             <div class="dropdown-menu rounded-0" aria-labelledby="committee">
-                <a class="dropdown-item" href="/ame/committee">Patron / Co-Patron</a>
-                <a class="dropdown-item" href="/ame/committee#national-advisory">National Advisory Committee</a>
-                <a class="dropdown-item" href="/ame/committee#chairperson">Chairperson</a>
+                <a class="dropdown-item" href="/ame/committee">Inter-National Advisory Council</a>
+<!--                <a class="dropdown-item" href="/ame/committee#national-advisory">National Advisory Committee</a>-->
+                
+                <a class="dropdown-item" href="/ame/committee#patron">Patron / Co-Patron</a>
+                <a class="dropdown-item" href="/ame/committee#organising-secretaries">>Organising Secretaries</a>
                 <a class="dropdown-item" href="/ame/committee#coordinator">Coordinator</a>
             </div>
         </li>

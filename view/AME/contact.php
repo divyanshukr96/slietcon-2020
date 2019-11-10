@@ -30,9 +30,14 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                         </thead>
                         <tbody>
                         <tr>
-                            <td>Dr. Sunil Kumar</td>
+                            <td>Dr. Rajesh Kumar</td>
                             <td><a href="mailto:ame2020@sliet.ac.in ">ame2020@sliet.ac.in </a></td>
-                            <td>+91 9855288502, 1672253879(O)</td>
+                            <td>+91 9417156795</td>
+                        </tr>
+                        <tr>
+                            <td>Dr. Pradeep Gupta</td>
+                            <td><a href="mailto:ame2020@sliet.ac.in ">ame2020@sliet.ac.in </a></td>
+                            <td>+91 9417664777</td>
                         </tr>
                         <tr>
 <!--                            <th scope="row" rowspan="2" class="align-middle">AME-2020</th>-->

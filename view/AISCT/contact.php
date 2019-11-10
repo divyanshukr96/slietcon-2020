@@ -30,6 +30,16 @@ include_once TEMPLATE_PATH . '/aisct/header.php';
                         </thead>
                         <tbody>
                         <tr>
+                            <td>Dr. Sanjay Marwaha</td>
+                            <td><a href="mailto:aisct2020@sliet.ac.in ">aisct2020@sliet.ac.in </a></td>
+                            <td>+91 9463863055</td>
+                        </tr>
+                        <tr>
+                            <td>Dr. Major Singh</td>
+                            <td><a href="mailto:aisct2020@sliet.ac.in ">aisct2020@sliet.ac.in </a></td>
+                            <td>+91 7986234077</td>
+                        </tr>
+                        <tr>
 <!--                            <th scope="row" rowspan="2" class="align-middle">AISCT-2020</th>-->
                             <td>Dr. Birmohan Singh</td>
                             <td><a href="mailto:aisct2020@sliet.ac.in ">aisct2020@sliet.ac.in </a></td>

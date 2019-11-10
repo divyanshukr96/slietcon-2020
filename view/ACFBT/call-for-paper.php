@@ -91,13 +91,14 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
 <!--                <dt>Paper format</dt>-->
 <!--                <dd>Research paper are to be submitted in the standard IEEE format.</dd>-->
 <!--            </dl>-->
-<!--            <dl>-->
-<!--                <dt>Paper submission guidelines</dt>-->
-<!--                <dd>The research papers will only be accepted through easy chair.<br>-->
-<!--                    <a href="https://easychair.org/conferences/?conf=slietcon2019" class="btn btn-link">Paper Submit-->
-<!--                        here</a>-->
-<!--                </dd>-->
-<!--            </dl>-->
+            <dl>
+                <dt>Paper submission guidelines</dt>
+                <dd>The full length papers will only be accepted through easy chair.<br>
+                    <a href="https://easychair.org/conferences/?conf=acfbt2020" class="btn btn-link">
+                        Paper Submit here
+                    </a>
+                </dd>
+            </dl>
         </div>
     </section>
 
