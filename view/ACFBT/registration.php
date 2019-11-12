@@ -39,6 +39,9 @@ include_once TEMPLATE_PATH . '/acfbt/header.php';
                         <dd>
                             <a href="/assets/Copyright Transfer Agreement ACFBT.pdf">Download Copyright Transfer Agreement</a>
                         </dd>
+                        <dd>
+                            <a href="/assets/SLIETICON Registration form ACFBT.pdf">Download Registration Form</a>
+                        </dd>
                     </dl>
                 </div>
                 <div class="col-12 text-center mt-4">
