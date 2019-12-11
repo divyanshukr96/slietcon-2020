@@ -98,6 +98,11 @@ if (count($route) < 2) {
             require_once TEMPLATE_PATH . '/about/slietcon.php';
             break;
 
+        case 'expert-talk':
+            $title = TITLE . ' | Expert Talk';
+            require_once TEMPLATE_PATH . '/ame/expert-talk.php';
+            break;
+
 
         case 'instructions-for-oral-paper-poster-presentation':
         case 'instructions':

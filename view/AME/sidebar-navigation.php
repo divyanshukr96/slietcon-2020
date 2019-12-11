@@ -58,6 +58,8 @@
             </div>
         </li>
 
+        <li><a href="/ame/expert-talk">Expert Talk</a></li>
+
         <li><a href="/ame/sponsorship">Sponsorship</a></li>
 
         <li class="dropdown">

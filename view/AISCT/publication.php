@@ -17,12 +17,17 @@ require_once TEMPLATE_PATH . '/aisct/header.php';
             </div>
         </div>
         <div class="container my-3">
+
             <h5>
-                Selected peer reviewed quality papers presented in the conference shall be published in reputed
-                journal/books in respective subject domain. All other accepted and presented manuscript will be
-                published in the conference proceedings.
+                Selected peer reviewed quality papers shall be published in following Print Media.
             </h5>
-            <h5 style="font-weight: bold" class="mt-3"> * Name of Journals will be published soon.</h5>
+            <ul class="h5">
+                <li>Institution of Engineers (India) Series C – Scopus Indexed</li>
+            </ul>
+            <h5>
+                All other accepted and presented manuscript will be published in the conference proceedings.
+            </h5>
+
         </div>
     </section>
 
