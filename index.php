@@ -98,3 +98,5 @@ switch ($uri) {
                 break;
         }
 }
+
+require_once TEMPLATE_PATH . '/notification.php';

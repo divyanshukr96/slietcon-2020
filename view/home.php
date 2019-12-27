@@ -101,7 +101,7 @@ $toggle = '"';
                                 SLIET-I-CON - 2020
                             </h1>
                             <h3 class="mt-md-1 event-date">A Multi-track International Conference</h3>
-                            <h4 class="mt-md-2 text-shadow">Feb 26 - 29, 2020</h4>
+                            <h4 class="mt-md-2 text-shadow">Sep 2 - 5, 2020</h4>
                             <h3 class="mt-md-2 event-date">Under TEQIP - III (Twinning Program) </h3>
                         </div>
                         <div class="col-12 py-2 mx-0 px-0 mt-2 in-association">
@@ -147,7 +147,7 @@ $toggle = '"';
         </h4>
         <div class="container py-3">
             <p class="px-md-4">
-                SLIET-I-CON-2020, a Multi-Track International Conference to be held during February 26-29, 2020 is a
+                SLIET-I-CON-2020, a Multi-Track International Conference to be held during September 2-5, 2020 is a
                 prestigious event organized by <strong>Sant Longowal Institute of Engineering and Technology (SLIET),
                     Longowal </strong> with a motivation to provide an excellent international platform to encourage
                 academic activities to help students as well as teachers to continuously develop their skills to meet
@@ -172,7 +172,7 @@ $toggle = '"';
                 </dl>
                 <dl>
                     <dt>WHEN</dt>
-                    <dd>February 26 - 29, 2020</dd>
+                    <dd>September 2 - 5, 2020</dd>
                 </dl>
             </div>
         </div>

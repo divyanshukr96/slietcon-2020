@@ -34,7 +34,7 @@ $(document).ready(function () {
     }
     notice_aisct.on('hidden.bs.modal', function (e) {
         sessionStorage.setItem('notice_aisct', 'true')
-    })
+    });
 
     const notice_acfbt = $('#notice_acfbt');
     if (!sessionStorage.getItem('notice_acfbt')) {
@@ -42,6 +42,14 @@ $(document).ready(function () {
     }
     notice_acfbt.on('hidden.bs.modal', function (e) {
         sessionStorage.setItem('notice_acfbt', 'true')
+    });
+
+    const main_notice = $('#main_notice');
+    if (!sessionStorage.getItem('main_notice')) {
+        main_notice.modal('show')
+    }
+    main_notice.on('hidden.bs.modal', function (e) {
+        sessionStorage.setItem('main_notice', 'true')
     });
 
 });
