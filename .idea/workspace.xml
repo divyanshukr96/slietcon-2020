@@ -3,13 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e0cc1aa7-4c31-4174-8a08-834e5c13b875" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/function.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/function.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/ACFBT/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/AISCT/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/AME/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/common/dates.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/common/dates.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ACFBT-2020 Catalog 001RF.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/ACFBT-2020 Catalog 001RF.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Flyer ACFBT 2020RF.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Flyer ACFBT 2020RF.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Flyer SLIET CON 2020RF.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Flyer SLIET CON 2020RF.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/header.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,19 +71,19 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\SLIET\SLIET-I-CON\assets" />
-      <recent name="E:\SLIET\SLIET-I-CON\view\2019" />
-      <recent name="E:\SLIET\SLIET-I-CON\routes" />
-      <recent name="E:\SLIET\SLIET-I-CON\view\temp" />
-      <recent name="E:\SLIET\SLIET-I-CON\view\AISCT" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\SLIET\SLIET-I-CON\assets\images\experts" />
       <recent name="E:\SLIET\SLIET-I-CON\assets" />
       <recent name="E:\SLIET\SLIET-I-CON\assets\images\national" />
       <recent name="E:\SLIET\SLIET-I-CON\assets\images\inter-national" />
       <recent name="E:\SLIET\SLIET-I-CON\view\ame\committee" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SLIET\SLIET-I-CON\assets" />
+      <recent name="E:\SLIET\SLIET-I-CON\view\2019" />
+      <recent name="E:\SLIET\SLIET-I-CON\routes" />
+      <recent name="E:\SLIET\SLIET-I-CON\view\temp" />
+      <recent name="E:\SLIET\SLIET-I-CON\view\AISCT" />
     </key>
   </component>
   <component name="RunManager">
@@ -161,7 +158,11 @@
       <workItem from="1576077201830" duration="1317000" />
       <workItem from="1576316211916" duration="109000" />
       <workItem from="1576392570558" duration="33000" />
-      <workItem from="1577476630350" duration="2143000" />
+      <workItem from="1577476630350" duration="2301000" />
+      <workItem from="1577564033599" duration="7000" />
+      <workItem from="1577826402642" duration="389000" />
+      <workItem from="1580374308514" duration="432000" />
+      <workItem from="1582000580601" duration="893000" />
     </task>
     <servers />
   </component>
@@ -245,10 +246,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="439" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577481437638" />
-    <state x="636" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1577476630570">
+    <state x="636" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1577826401794">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="636" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577476630570" />
+    <state x="636" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577826401794" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1576077947313">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
