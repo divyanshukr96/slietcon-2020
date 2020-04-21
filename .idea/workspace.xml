@@ -3,10 +3,63 @@
   <component name="ChangeListManager">
     <list default="true" id="e0cc1aa7-4c31-4174-8a08-834e5c13b875" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/ACFBT-2020 Catalog 001RF.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/ACFBT-2020 Catalog 001RF.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Flyer ACFBT 2020RF.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Flyer ACFBT 2020RF.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Flyer SLIET CON 2020RF.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Flyer SLIET CON 2020RF.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/0018.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/0018.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/0021.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/0021.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/0023.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/0023.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/004.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/005.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/008.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/008.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/45163713_502155456935015_1679510896260415488_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/45163713_502155456935015_1679510896260415488_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/45179271_502155630268331_6852476516672995328_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/45179271_502155630268331_6852476516672995328_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/45199735_502155443601683_1381851215763079168_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/45199735_502155443601683_1381851215763079168_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/45248430_502155600268334_7381368354394603520_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/45248430_502155600268334_7381368354394603520_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/45367172_502594160224478_6893870754341847040_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/45367172_502594160224478_6893870754341847040_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/45370962_502588880225006_7546090460549218304_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/45370962_502588880225006_7546090460549218304_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/52588115_562944430856117_644525315246260224_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/52588115_562944430856117_644525315246260224_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/53582002_570165256800701_2983336871381172224_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/53582002_570165256800701_2983336871381172224_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/53900745_569442093539684_4302973462932094976_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/53900745_569442093539684_4302973462932094976_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/54254955_574541976363029_6237239614210310144_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/54254955_574541976363029_6237239614210310144_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/57049048_589158574901369_8544953682976833536_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/57049048_589158574901369_8544953682976833536_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/58374288_595326344284592_8257584430588100608_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/58374288_595326344284592_8257584430588100608_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/58460596_595806790903214_1237269147562278912_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/58460596_595806790903214_1237269147562278912_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/59039656_598534830630410_875388736643268608_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/59039656_598534830630410_875388736643268608_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/59394043_599063650577528_4707089010281938944_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/59394043_599063650577528_4707089010281938944_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/59831847_599649643852262_8122803301663113216_n.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/59831847_599649643852262_8122803301663113216_n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/96.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/96.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/98.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/98.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/99.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/99.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/glimpse/Yoga12018.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/glimpse/Yoga12018.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/Atari Border.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Atari Border.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/Butterfly park.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Butterfly park.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/D001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/D001.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/D002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/D002.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/D003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/D003.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/D004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/D004.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/D005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/D005.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/D006.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/D006.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/Dharamshala.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Dharamshala.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/Garden of Fragrance.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Garden of Fragrance.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/Golden_Temple_India.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Golden_Temple_India.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/India_Gate_at_Night-e1450397705487.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/India_Gate_at_Night-e1450397705487.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/Jallianwala-Bagh_600-1280x720.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Jallianwala-Bagh_600-1280x720.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/Kiala Forest.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Kiala Forest.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/Kufri.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Kufri.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/Lotus Temple.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Lotus Temple.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/Monasteries.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Monasteries.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/Red Fort.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Red Fort.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/Ridge of Shimla.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Ridge of Shimla.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/Rose Garden.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Rose Garden.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/Shimla-Kalka-Toy-Train.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/Shimla-Kalka-Toy-Train.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/bangla-sahib-gurudwara-delhi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/bangla-sahib-gurudwara-delhi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/dalhousie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/dalhousie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/dr-ambedlar-national-memorial.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/dr-ambedlar-national-memorial.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/rock-garden-chandigarh-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/rock-garden-chandigarh-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/rock-garden01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/rock-garden01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/places-to-visit/sukhna-lake.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/places-to-visit/sukhna-lake.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ACFBT/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/ACFBT/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AISCT/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AISCT/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/AME/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/AME/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/common/dates.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/common/dates.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +215,8 @@
       <workItem from="1577564033599" duration="7000" />
       <workItem from="1577826402642" duration="389000" />
       <workItem from="1580374308514" duration="432000" />
-      <workItem from="1582000580601" duration="893000" />
+      <workItem from="1582000580601" duration="2702000" />
+      <workItem from="1587462623246" duration="966000" />
     </task>
     <servers />
   </component>
@@ -218,45 +272,25 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576316308079">
+    <state width="1876" height="261" key="GridCell.Tab.0.bottom" timestamp="1587464681075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576316308079" />
-    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575697494395">
+    <state width="1876" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587464681075" />
+    <state width="1876" height="261" key="GridCell.Tab.0.center" timestamp="1587464681075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575697494395" />
-    <state width="1876" height="261" key="GridCell.Tab.0.bottom" timestamp="1576392603346">
+    <state width="1876" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587464681075" />
+    <state width="1876" height="261" key="GridCell.Tab.0.left" timestamp="1587464681075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576392603346" />
-    <state width="1876" height="261" key="GridCell.Tab.0.center" timestamp="1576392603346">
+    <state width="1876" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587464681075" />
+    <state width="1876" height="261" key="GridCell.Tab.0.right" timestamp="1587464681075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576392603346" />
-    <state width="1876" height="261" key="GridCell.Tab.0.left" timestamp="1576392603345">
+    <state width="1876" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587464681075" />
+    <state x="636" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1587462646176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576392603345" />
-    <state width="1876" height="261" key="GridCell.Tab.0.right" timestamp="1576392603346">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1876" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576392603346" />
-    <state x="794" y="439" key="NewPhpFileDialog" timestamp="1577481437638">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="794" y="439" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577481437638" />
-    <state x="636" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1577826401794">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="636" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577826401794" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1576077947313">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576077947313" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1576077324915">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576077324915" />
+    <state x="636" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587462646176" />
   </component>
 </project>

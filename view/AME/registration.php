@@ -120,10 +120,10 @@ include_once TEMPLATE_PATH . '/ame/header.php';
                                     <th>Regular</th>
                                 </tr>
                                 <tr>
-                                    <th>Before Dec. 31, 2019</th>
-                                    <th>After Dec. 31, 2019</th>
-                                    <th>Before Dec. 31, 2019</th>
-                                    <th>After Dec. 31, 2019</th>
+                                    <th>Before May. 30, 2020</th>
+                                    <th>After May. 30, 2020</th>
+                                    <th>Before May. 30, 2020</th>
+                                    <th>After May. 30, 2020</th>
                                 </tr>
                                 <tr>
                                     <td>Student/Post Doc.</td>

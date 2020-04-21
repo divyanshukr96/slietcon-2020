@@ -29,15 +29,15 @@
                 <table class="table table-bordered mt-4">
                     <tr>
                         <th>Extended Abstract submission :</th>
-                        <th>April 15, 2020</th>
+                        <th>May 30, 2020</th>
                     </tr>
                     <tr>
                         <th>Acceptance Notification of Extended Abstract :</th>
-                        <th>April 20, 2020</th>
+                        <th>June 10, 2020</th>
                     </tr>
                     <tr>
                         <th>Submission of full paper :</th>
-                        <th>May 15, 2020</th>
+                        <th>June 30, 2020</th>
                     </tr>
                     <!--                        <tr>-->
                     <!--                            <th>Submission of full paper :</th>-->
@@ -45,7 +45,7 @@
                     <!--                        </tr>-->
                     <tr>
                         <th>Revised paper Submission :</th>
-                        <th>May 30, 2020</th>
+                        <th>July 15, 2020</th>
                     </tr>
                 </table>
             </div>
